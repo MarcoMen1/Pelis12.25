@@ -1,15 +1,15 @@
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/rukf2HxdOcpL6hNswFmbHrrZJ5T.jpg" group-title="Drama",øCu·nto Vale La Vida? (2021)
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/rukf2HxdOcpL6hNswFmbHrrZJ5T.jpg" group-title="Drama",¬øCu√°nto Vale La Vida? (2021)
 https://archive.org/download/00-coco/CU4NT0V4L3L4V1D4.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-Casino-Royale.jpg" group-title="Ciencia Ficcion",007 - Casino Royale
 http://archive.org/download/mio53_yopmail_5/5.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-El-ma-ana-nunca-muere.jpg" group-title="Ciencia Ficcion",007 - El maÒana nunca muere
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-El-ma-ana-nunca-muere.jpg" group-title="Ciencia Ficcion",007 - El ma√±ana nunca muere
 http://archive.org/download/mio53_yopmail_2/2.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-El-mundo-no-basta.jpg" group-title="Ciencia Ficcion",007 - El mundo no basta
 http://archive.org/download/mio53_yopmail_3/3.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-Goldeneye.jpg" group-title="Ciencia Ficcion",007 - Goldeneye
 http://archive.org/download/mio53_yopmail_1/1.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-Otro-d-a-para-morir.jpg" group-title="Ciencia Ficcion",007 - Otro dÌa para morir
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-Otro-d-a-para-morir.jpg" group-title="Ciencia Ficcion",007 - Otro d√≠a para morir
 http://archive.org/download/mio53_yopmail_4/4.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/007-Quantum.jpg" group-title="Ciencia Ficcion",007 - Quantum
 http://archive.org/download/mio53_yopmail_6/6.mp4
@@ -35,7 +35,7 @@ http://archive.org/download/mio53_yopmail_8/8.mp4
 http://ia801408.us.archive.org/8/items/26_20200912_20200912_1335/sub1d0_p4r4_5tr34ming_A85/25.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVhZjhlZDYtMDAwZi00MDcyLTgzOTItOWNiZjY0YmE0MGE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Drama",10 cosas que odio de ti
 http://archive.org/download/R4Z0n3sP4r40d14rt333/R4Z0n3s%20P4r4%200d14rt333.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDI0MTA1N15BMl5BanBnXkFtZTgwOTk4NjU5ODE@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",12 HORAS PARA SOBREVIVIR EL A—O DE LA ELECCION
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDI0MTA1N15BMl5BanBnXkFtZTgwOTk4NjU5ODE@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",12 HORAS PARA SOBREVIVIR EL A√ëO DE LA ELECCION
 http://ia801205.us.archive.org/4/items/7H3.PU/7H3.PU963.313C7I0N.Y349-ES-360.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjMWJhMTYtMzUxMC00ODdhLTk3YzMtZDFhNGUyOGFhYTY0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",12 HORAS PARA SOBREVIVIR EL INICIO
 http://archive.org/download/0_20200403_202004/1.mp4
@@ -47,9 +47,9 @@ http://ia601502.us.archive.org/15/items/000_20201007/00009.mp4
 http://ia801500.us.archive.org/18/items/00000_202009/0000007.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlmNzY5YzgtOTBhYS00NDBlLWJhMTYtMzZmNjI4ODVkYmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",13 FANTASMAS
 http://archive.org/download/img-20200601-105221-hdr/1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210201-171219/IMG_20210201_171219.jpg" group-title="Drama",187 cÛdigo de muerte opc2
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210201-171219/IMG_20210201_171219.jpg" group-title="Drama",187 c√≥digo de muerte opc2
 https://archive.org/download/187_20210202/187.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210201-171219/IMG_20210201_171219.jpg" group-title="Drama",187 cÛdigo de muerte
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210201-171219/IMG_20210201_171219.jpg" group-title="Drama",187 c√≥digo de muerte
 https://archive.org/download/187_20210202/187.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",1917()
 http://archive.org/download/3_20200303/2.mp4
@@ -69,7 +69,7 @@ http://ia903208.us.archive.org/12/items/00000_202006/11.mp4
 http://archive.org/download/1589567773091/7R35C13IAN705.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFhZjQ3OTQtZjMzMS00NGE4LTljYmEtMzY1MGUwYzhmOTdkXkEyXkFqcGdeQXVyMTcxNTYyMjM@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",31 Minutos la pelicula
 http://archive.org/download/31m1nu70/31M%2C%20La%20Pelicula.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/eCriHOSZbQIzJ7CtSOeMik8JPUR.jpg" group-title="Drama",4 DÌas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/eCriHOSZbQIzJ7CtSOeMik8JPUR.jpg" group-title="Drama",4 D√≠as (2021)
 https://archive.org/download/00-coco/4D14S.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",500 DIAS CON ELLA
 http://archive.org/download/500das/500das.mp4
@@ -121,11 +121,11 @@ https://archive.org/download/h1erb4/4ft3rr.mp4
 https://archive.org/download/ck-2_20210106/4G3NT3S.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWM4NmZhN2UtMDVlZC00MGVmLWFhMDgtNjk3NjEzZmI2NmU4XkEyXkFqcGdeQXVyNzIxNjgzNDg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Documentales",AGUAS INVISIBLES
 http://archive.org/download/009_20200823/002.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1NjBhNmEtZmM2OS00NDM0LTg3YjctZWU4NjcxODMxYzVmXkEyXkFqcGdeQXVyMjgzNjA3Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",AHÕ VIENE EL CASCARRABIAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ1NjBhNmEtZmM2OS00NDM0LTg3YjctZWU4NjcxODMxYzVmXkEyXkFqcGdeQXVyMjgzNjA3Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",AH√ç VIENE EL CASCARRABIAS
 http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/jZonuUeC9bH2D5A609w7nkplhyj.jpg" group-title="Drama",Aislados (2021)
 https://archive.org/download/00-coco/41SL4D0S.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/4k-1r-4-3sp/4k1r4%203sp.jpg" group-title="Animacion",AKIRA ESPA—OL
+#EXTINF:-1 tvg-logo="http://archive.org/download/4k-1r-4-3sp/4k1r4%203sp.jpg" group-title="Animacion",AKIRA ESPA√ëOL
 http://archive.org/download/4k-1r-4-3sp_202101/4k1r4%203sp.mkv
 #EXTINF:-1 tvg-logo="http://archive.org/download/4k-1r-4/4k1r4.jpg" group-title="Animacion",AKIRA
 http://archive.org/download/4k-1r-4_202101/4k1r4.mp4
@@ -143,11 +143,11 @@ http://ia601507.us.archive.org/19/items/00000_202008/00012.mp4
 https://archive.org/download/dedede-1/Alerta%20roja%20%5Bultrapelishd%5D.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MDE0NjUyMV5BMl5BanBnXkFtZTcwNjQzNjg5Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",ALEX CROOS
 http://archive.org/download/217u92t33/4L3X%20CR0022.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg" group-title="Romanticas",Alguien como Èl (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg" group-title="Romanticas",Alguien como √©l (2021)
 https://archive.org/download/00azucar/SDR/4LG1ENC0M03L.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NjExMTIyN15BMl5BanBnXkFtZTgwMjg0OTIwODE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",alicia a travez del espejo
 http://archive.org/download/ALICTR/ALICTR.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",ALICIA EN EL PAÕS DE LAS MARAVILLAS LIVE ACTION
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",ALICIA EN EL PA√çS DE LAS MARAVILLAS LIVE ACTION
 http://archive.org/download/2fc-07f-7872cf-8a-100d-544b-609239a-80f/4l1gc1jc43n3ljp415d3l45jm4r4v1ll45.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/08y776/4l1c14.jpg" group-title="Infantiles",Alicia EnEl Pais De Las Maravillas
 http://archive.org/download/08y776/4L1C143N3LP415.avi
@@ -169,11 +169,11 @@ https://archive.org/download/3_20200511_202005/1.mpg
 https://archive.org/download/aloctpsj/Lunes/aloctpsj.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Ciencia Ficcion",ALIENS 2
 http://ia801501.us.archive.org/22/items/03_20200908_20200908_1321/sub1d0_p4r4_5tr34ming_A85/02.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",ALITA (BATTLE ANGEL: LA ⁄LTIMA GUERRERA)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",ALITA (BATTLE ANGEL: LA √öLTIMA GUERRERA)
 http://archive.org/download/4l7t4/4l7T4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",Alita Battle Angel
 https://archive.org/download/whats-app-audio-2021-05-21-at-7.37.12-pm/4l1ta.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/16Ulr0URRDLSF1k3tGtMvMCLANt.jpg "group-title="Comedia",ALMA DE AVI”N (LOCURA EN LAS ALTURAS) ESPA—OL LATINO
+#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/16Ulr0URRDLSF1k3tGtMvMCLANt.jpg "group-title="Comedia",ALMA DE AVI√ìN (LOCURA EN LAS ALTURAS) ESPA√ëOL LATINO
 http://archive.org/download/10kvr43n1454ltvr4s/10kvr4_3n_145_4ltvr4s.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc1NjRlZjMtYjUzMS00OGI2LWIwM2MtNjk5NGZlMjg1YmI0XkEyXkFqcGdeQXVyNjU1OTIyNTI@._V1_UY268_CR3,0,182,268_AL_.jpg "group-title="Terror",ALMA MALDITA 2018
 http://ia801409.us.archive.org/30/items/000_20200106/3.mp4
@@ -243,7 +243,7 @@ http://archive.org/download/img20200314122721/4m0r1nu3br4n74bl3.mp4
 http://archive.org/download/1_20200420_20200420_1906/am/1.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFiYTdiMDktMzJhZi00NzEwLTgxN2UtNDc5OTM5MmVhMjRkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",AMULETO
 http://archive.org/download/amul_20201014/AMUL.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",ANABELLE 2 LA CREACI”N
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",ANABELLE 2 LA CREACI√ìN
 http://archive.org/download/fb-img-15899986005641994/74m4r4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI4NDNiMmQtZTFkYi00ZDVmLThlYTAtMWJlMjU1M2I2ZmViXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",ANABELLE 3
 http://archive.org/download/00100rrt/020000511RE.mp4
@@ -267,7 +267,7 @@ http://archive.org/download/0_20200422/1.mp4
 http://archive.org/download/3_20200612_20200612/2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVlMDI5N2UtZTIyMC00NjZkLWI5Y2QtODM5NGE5MzA0NmVjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",ANIMALES FANTASTICOS LOS CRIMENES DE GRIMDERWODL
 http://archive.org/download/icon1_20190813/12.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="Fantasia",Animales Fant·sticos Los Secretos de Dumbledore
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="Fantasia",Animales Fant√°sticos Los Secretos de Dumbledore
 https://archive.org/download/descarga_202101/dfdf/4n1m4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",ANIMALES FANTASTICOS Y EN DONDE ENCONTRARLOS (OPC2)
 http://archive.org/download/icon1_20190813/11.mp4
@@ -289,7 +289,7 @@ https://archive.org/download/23kksk300/23kksk/23kksk100.mp4
 http://ia601503.us.archive.org/18/items/000_20191214/4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMzMDdlMDktODg4OC00Y2E5LTk1ZjMtNzM2MzIxZGQ0ZGI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",ANTZ HORMIGUITAS
 http://archive.org/download/4-nt-5/4NT5.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/1k2tOu6DWFxsSTbzg3zmlFLbgq8.jpg" group-title="Comedia",AÒos De Perro
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/1k2tOu6DWFxsSTbzg3zmlFLbgq8.jpg" group-title="Comedia",A√±os De Perro
 https://archive.org/download/cacahu/an0sp3rr.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Apocalypto
 https://archive.org/download/00sffdsg/4p0c4.mp4
@@ -325,7 +325,7 @@ http://ia801401.us.archive.org/10/items/0_20200519/05.mp4
 https://ia601509.us.archive.org/32/items/nhu9tdftu/cvovcc.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyNzhjMTAtNGI5OC00MjYzLWFlNDUtMTQzYTdhZjliMDk0XkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",ASTERIX EL SECRETO DE LA POCION MAGICA
 http://archive.org/download/img20200409153743/5UB1D04X73R1X.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/variadas_202203/1M463N/4573r1x3n4m3r1c4.jpg" group-title="Animacion",Asterix en AmÈrica (1995)
+#EXTINF:-1 tvg-logo="http://archive.org/download/variadas_202203/1M463N/4573r1x3n4m3r1c4.jpg" group-title="Animacion",Asterix en Am√©rica (1995)
 http://archive.org/download/variadas_202203/M0V13/4573r1x3n4m3r1ca41995.mkv
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/Asu-Mare-poster.jpg "group-title="Comedia",ASU MARE 1
 http://archive.org/download/asm-1hdude/Asm1hdude.mp4
@@ -347,7 +347,7 @@ http://archive.org/download/mio21_yopmail_31/3%20%281%29.avi
 http://archive.org/download/08y776/47l4n715l4p3l.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/misportadashd567/4TL4NT15.jpg" group-title="Infantiles",Atlantis
 http://archive.org/download/atlas_202009/atlas.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",AtracciÛn peligrosa 2010
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Atracci√≥n peligrosa 2010
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",ATRAPAME SI PUEDES
 http://archive.org/download/whats-app-image-2020-07-10-at-22.20.25/474P4M.mp4
@@ -357,7 +357,7 @@ http://archive.org/download/killerscorpion_01_hotmail_2/Sub1d0_p4r4_5tr34ming_A8
 http://archive.org/download/dovacateg_maillink_1/wiimc/1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",AVENGERS END GAME
 http://archive.org/download/4-v-3-ng-3-rs-3-ndg-4-m-3/4V3NG3RS3NDG4M3.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Marvel Studio",Avengers: Era de UltrÛn (2015)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Marvel Studio",Avengers: Era de Ultr√≥n (2015)
 https://archive.org/download/avengers-2-era-de-ultron/Avengers%202%20Era%20de%20Ultr%C3%B3n.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/06_20210102_202101/06.jpg" group-title="Marvel Studio",Avengers
 http://archive.org/download/06_20210102_202101/4V3N63R5.avi
@@ -373,13 +373,13 @@ http://ia801400.us.archive.org/14/items/000_20201114/00005.mp4
 https://archive.org/download/00pa_20210706/b4b4d0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Baby el aprendiz del crimen
 https://archive.org/download/j-1_20210618/b48y.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg" group-title="Accion",BAC Nord Brigada De InvestigaciÛn (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg" group-title="Accion",BAC Nord Brigada De Investigaci√≥n (2021)
 https://archive.org/download/00-jicama/B4CN0RD.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/submenu/B4DB0YF0RL4Y.jpeg" group-title="Accion",BAD BOYS FOR LIFE
 https://archive.org/download/B.b.f.life/B.b.f.life.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Bad Boys para siempre
 http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qIEVgsk9art4MY1O5hxQ0uvBrzv.jpg" group-title="Romanticas",BahÌa de invierno (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qIEVgsk9art4MY1O5hxQ0uvBrzv.jpg" group-title="Romanticas",Bah√≠a de invierno (2021)
 https://archive.org/download/00azucar/SDR/B41A.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/wNDu6aBv0yynUr8TcvSLUe8QLPt.jpg" group-title="Romanticas",Bajo El Hechizo Del Amor (2021)
 https://archive.org/download/00-jicama/B4J03LH3CHIS0.mp4
@@ -407,7 +407,7 @@ http://archive.org/download/15902146490988087416513007050637/9.mp4
 http://archive.org/download/15902146490988087416513007050637/7.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjEyZjYzMGUtY2U3Yi00YzE2LThkZGItNWJlNDNlZDhhMGJmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",BARBIE ESCUELA DE PRINCESAS
 http://archive.org/download/15902146490988087416513007050637/8.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/8PCeAhmRkiWYLBq0quetaFrHZp3.jpg" group-title="Infantiles",Barbie Grandes SueÒos En La Gran Ciudad (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/8PCeAhmRkiWYLBq0quetaFrHZp3.jpg" group-title="Infantiles",Barbie Grandes Sue√±os En La Gran Ciudad (2021)
 https://archive.org/download/00-jicama/B4RB1E.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZmZWVkOTAtN2U2ZC00YTVjLWE0OWItYmQ1NDBhNWUzYjdhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",BARBIE LA MAGIA DEL PAGASO
 http://archive.org/download/15902146490988087416513007050637/4.mp4
@@ -421,7 +421,7 @@ http://archive.org/download/15902146490988087416513007050637/5.mp4
 https://archive.org/download/qu3fu3ch4o/B4rr3nd3r0s.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmIwOTc1ZmQtNjdiMy00NWVmLWE3ODktNmM0NmMwNmRmMDk3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="Accion",Bartkowiak
 https://archive.org/download/pacto1/b4rt.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUzMTliZDYtMmRjZS00Zjk3LWIwZjEtZjc4N2NjYjdmY2FjXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",BASIL EL RAT”N SUPERDETECTIVE
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUzMTliZDYtMmRjZS00Zjk3LWIwZjEtZjc4N2NjYjdmY2FjXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",BASIL EL RAT√ìN SUPERDETECTIVE
 http://ia601508.us.archive.org/25/items/B4s1l/B4s1l.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Drama",BASTARDOS SIN GLORIA
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Bastardos%20sin%20gloria.mp4
@@ -459,7 +459,7 @@ https://archive.org/download/b4tm4n_202103/B4TM4N2012.mp4
 https://archive.org/download/maskara-f-4nt-4sma/maskara%20f4nt4sma.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/battleship-batalla-naval.jpg" group-title="Ciencia Ficcion",Battleship Batalla Naval
 https://archive.org/download/9781433670404/B4TTL3S1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5xZY8uPJPtAGGuHKCzIQv5j90jC.jpg" group-title="Comedia",Bean lo ˙ltimo en cine catastrÛfico
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5xZY8uPJPtAGGuHKCzIQv5j90jC.jpg" group-title="Comedia",Bean lo √∫ltimo en cine catastr√≥fico
 https://archive.org/download/descarga_202101/1111/B3AN.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/cine-004845.jpg "group-title="Comedia",BEAVIS Y BUTTHEAD RECORREN AMERICA
 http://ia601503.us.archive.org/31/items/0_20200420/1.ia.mp4
@@ -487,7 +487,7 @@ http://archive.org/download/mislistas/B3RN4RD0.avi
 http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/913G3FEE4CKLCFEUWW9SA.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWYzNTUxNjQtNGNjMy00Yzc1LWEyNzItOWQ2MWFjZGRmOTcxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="Accion",Beyon white space 2018
 http://ia601502.us.archive.org/33/items/3_20191128_20191128/3.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3zV7PVZeDF3ebqArBwsjmyY8TO.jpg" group-title="Comedia",BIA Un Mundo Al RevÈs
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3zV7PVZeDF3ebqArBwsjmyY8TO.jpg" group-title="Comedia",BIA Un Mundo Al Rev√©s
 https://archive.org/download/esd_20210305/b1a.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",BICHOS UNA AVENTURA EN MINIATURA
 http://archive.org/download/vid20200409wa0000_202004/M1D1PL0M4.mp4
@@ -579,7 +579,7 @@ http://archive.org/download/bc-1aygdyfd/Bc2agdudgh.mp4
 http://archive.org/download/C4B4LL0D33GU3RR4444/C4B4LL0%20D33%20GU3RR4444.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ3NGZhNjktMDNhOS00YzJiLWI1YjAtMDI5MzY1NzUxOGFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Terror",CABEZA DE MUERTE
 https://archive.org/download/00chayo/c4b3z4.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wto7rICtlIr8MpekJhhnh2CPBK6.jpg" group-title="Ciencia Ficcion",CacerÌa Jur·sica (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wto7rICtlIr8MpekJhhnh2CPBK6.jpg" group-title="Ciencia Ficcion",Cacer√≠a Jur√°sica (2021)
 https://archive.org/download/00azucar/SDR/C4C3R1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjI3ODI5NDEwMl5BMl5BanBnXkFtZTYwNDYyMjU3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",CADENA DE FAVORES
 http://archive.org/download/C4D3N4D3F4VOR32/C4D3N4%20D3%20F4VOR32.mp4
@@ -603,15 +603,15 @@ https://archive.org/download/ck-2_20210106/AZS/C4NGR3J0N3GR000.mp4
 http://archive.org/download/1_20200419_20200419_2109/2.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20210119-111729/IMG_20210119_111729.jpg" group-title="Mexicanas",CANTINFLAS ABAJO EL TELON
 http://archive.org/download/0_20200419_20200419_1343/3.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2MDViMGItY2VhYy00YzhjLTlmMzgtN2U3YjBkMGNkZjA1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_UY268_CR2,0,182,268_AL_.jpg "group-title="Terror",CA—ITAS 2007
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2MDViMGItY2VhYy00YzhjLTlmMzgtN2U3YjBkMGNkZjA1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_UY268_CR2,0,182,268_AL_.jpg "group-title="Terror",CA√ëITAS 2007
 http://archive.org/download/black-christmas-1080p-dual-id-9656/Ca%C3%B1itas%20%20LAT%20id_212960.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n65z2fs/caos1.jpg" group-title="Ciencia Ficcion",Caos
 https://archive.org/download/tinaco_20210405/Ch40s.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzA1OTU0MV5BMl5BanBnXkFtZTgwMjU4Nzk1MDE@._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="Clasics",Caperucita y Pulgarcito contra los monstruos (1962)
 https://archive.org/download/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Capit-n-Am-rica-Civil-War.jpg" group-title="Ciencia Ficcion",Capit·n AmÈrica - Civil War
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Capit-n-Am-rica-Civil-War.jpg" group-title="Ciencia Ficcion",Capit√°n Am√©rica - Civil War
 https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs200.avi
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Capit-n-Am-rica-El-Primer-vengador.jpg" group-title="Ciencia Ficcion",Capit·n AmÈrica - El Primer vengador
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Capit-n-Am-rica-El-Primer-vengador.jpg" group-title="Ciencia Ficcion",Capit√°n Am√©rica - El Primer vengador
 https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs100.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/05_20210102_20210102/05.jpg" group-title="Marvel Studio",Capitan America : el Primer Vendgador
 http://archive.org/download/05_20210102_20210102/C471T4N.avi
@@ -625,7 +625,7 @@ http://archive.org/download/09_20210107/C4P174N%202.avi
 http://archive.org/download/021_20210115/C4P174N4M4RV3L.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTczZWEyOTktODNmMC00NDgzLTk3NTktYjllN2Y4MWMxOGViXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",CARGO 2017
 http://ia601505.us.archive.org/14/items/00000_20200410_2219/04.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUwMjQ4YmUtNjZhMi00YzQ2LWI1NjYtMmNiMTYyNzY5ODIzXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",Carrera bala de caÒÛn 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUwMjQ4YmUtNjZhMi00YzQ2LWI1NjYtMmNiMTYyNzY5ODIzXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",Carrera bala de ca√±√≥n 2
 https://archive.org/download/cacahu/c4n0nb4ll.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/59hsdq81Ued9OYUTUA05BrJNA0l.jpg" group-title="Terror",Carrie (2013)
 https://archive.org/download/err0r/carr132031.mp4
@@ -633,13 +633,13 @@ https://archive.org/download/err0r/carr132031.mp4
 http://archive.org/download/screenshot-20200328-194059/fdR35UB13ND0C4R5.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",CARS 2
 http://archive.org/download/screenshot-20200328-194059/svrR35UB13ND0C4RS2.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/WdURWXQCsVpwy4OfA2uxk4Jkci.jpg" group-title="Romanticas",C·sate conmigo (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/WdURWXQCsVpwy4OfA2uxk4Jkci.jpg" group-title="Romanticas",C√°sate conmigo (2022)
 https://archive.org/download/ck-2_20210106/C4S4T3.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/005_m.jpg "group-title="Comedia",CASI IMPOSIBLE 2019
 http://ia801507.us.archive.org/4/items/000_20200127/2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEzZjI0NTQtNGZlOS00MzE1LTg3MDUtNWVkNTRiNmQ0NDhmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",CAZADORES DE DRAGONES
 http://archive.org/download/7cbacdaecc-91b-396cf-30cd-4528bfc-0c-4/kekcnc4z4d0r35d3dr460n35.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yBlHh4BNiGYgfBTAFi8XONfseN8.jpg" group-title="Ciencia Ficcion",Cazafantasmas M·s all· (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yBlHh4BNiGYgfBTAFi8XONfseN8.jpg" group-title="Ciencia Ficcion",Cazafantasmas M√°s all√° (2021)
 https://archive.org/download/mi-video-1/f4nt45m.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRmODc1OGEtYzhjOC00Y2FiLWFhNWUtYTJiYjlhMGU0Njk4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Celular 2004
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/4.mp4
@@ -679,7 +679,7 @@ https://archive.org/download/00naran/DRTGF/CH1D43L.mp4
 http://archive.org/download/img20200314155052/ch2qu170p3r0p3l16r050dl471n0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzOTM2OTAyNF5BMl5BanBnXkFtZTgwNTg5ODg1NTM@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",CHRISTOPHER ROBIN UN REENCUENTRO INOLVIDABLE
 http://ia801500.us.archive.org/18/items/suwigaf_acucre_01/01.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",CHUCKY EL MU—ECO DIABOLICO SAGA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",CHUCKY EL MU√ëECO DIABOLICO SAGA
 http://archive.org/download/chuky-1/Chuky%20%281%29.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJjODMwZWItZWZiYS00Y2FhLTlkYzMtMDBjNWRkNWE5ODE5XkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_UY268_CR3,0,182,268_AL_.jpg group-title="Cristianas",CICATRICES
 http://archive.org/download/unknown_202003/c1c47r1c35m0v13.mp4
@@ -697,7 +697,7 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/1/DRAMA%20-%20Cisn
 https://archive.org/download/e20bc531c2b837bcaf0cca8f9b3f9547-720p/e20bc531c2b837bcaf0cca8f9b3f9547-720p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxNTQxNTY5OF5BMl5BanBnXkFtZTcwNjEyNjg1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",CJ7
 http://ia601402.us.archive.org/28/items/ziduyaliri_mail-register_06/06.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/img-20191207-wa-0012/PhotoGrid_Plus_1607617303699.png" group-title="Infantiles",Cl·sicos navideÒos de DreamWorks
+#EXTINF:-1 tvg-logo="http://archive.org/download/img-20191207-wa-0012/PhotoGrid_Plus_1607617303699.png" group-title="Infantiles",Cl√°sicos navide√±os de DreamWorks
 http://archive.org/download/20151231-204803-001-002/N4V1D3%C3%9105.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/3305_173x256.jpg "group-title="Comedia",CLICK PERDIENDO EL CONTROL
 http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
@@ -717,7 +717,7 @@ http://archive.org/download/img-20200519-wa-0038/M454Y4.avi
 http://ia601402.us.archive.org/21/items/000_20200104_20200104_1517/3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM1YzdkNjYtNTI4NS00ZTU1LTgxMzYtNDAzOGU2N2FhZDdlXkEyXkFqcGdeQXVyMjYyNzc4MQ@@._V1_UY268_CR8,0,182,268_AL_.jpg" group-title="Drama",CODIGO DESCONOCIDO
 http://archive.org/download/codigo-desconocido-michael-haneke-2000-spa-226p/Codigo%20Desconocido%20%28Michael%20Haneke%2C%202000%29%20SPA-226p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nDVe8IpViR0bdFrraEN2IZnBanN.jpg" group-title="Accion",CÛdigos de guerra (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nDVe8IpViR0bdFrraEN2IZnBanN.jpg" group-title="Accion",C√≥digos de guerra (2002)
 https://archive.org/download/disco-duro_202112/c0d1g0sd3gu3.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/submenu/ZC0PR3Y2.jpeg" group-title="Terror",COLD PREY 2
 https://archive.org/download/c-0ld-p-43y-2/C0ld%20P43y%20%202.mp4
@@ -727,7 +727,7 @@ https://archive.org/download/c-0ld-pr-3y-3/C0ld%20pr3y%203.mp4
 https://archive.org/download/c-0ld-pr-3y-1/C0ld%20Pr3y%201.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/250357e20bd977eb3017bf35c4a20be3.jpg "group-title="Comedia",COLEGAS DEL BARRIO
 http://ia801402.us.archive.org/13/items/000_20200227/03.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4zsihgkxMZ7MrflNCjkD3ySFJtc.jpg" group-title="Drama",ColisiÛn
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4zsihgkxMZ7MrflNCjkD3ySFJtc.jpg" group-title="Drama",Colisi√≥n
 https://archive.org/download/00naran/22/c0l1c10n.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4Mjc1NzIxOF5BMl5BanBnXkFtZTcwMjEzMjc3MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",COLLEGE
 http://archive.org/download/erling44_198f_ymail3_Cubo/7.mp4
@@ -825,7 +825,7 @@ https://archive.org/download/00azucar/SDR/CR1S1.mp4
 http://ia801502.us.archive.org/1/items/The.Predator.BRSf.Latino489498498494/Cr0nicaNav1dad.m1080p.Castellano64867489749486498.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzMDcyMzM2Ml5BMl5BanBnXkFtZTYwNzg1Nzc4._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",CRONICAS DE SPIDERWICK
 http://archive.org/download/grid-plus-1595018593259/M4R10B3LLY.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/798722679/001_m.jpg" group-title="Drama",CrÛnicas mutantes
+#EXTINF:-1 tvg-logo="https://archive.org/download/798722679/001_m.jpg" group-title="Drama",Cr√≥nicas mutantes
 https://archive.org/download/c-80-nmu-7-13256/C80NMU7_13256.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/poster-cruella-fotogramas-1622152087/poster-cruella-fotogramas-1622152087.jpg" group-title="Drama",Cruella
 https://archive.org/download/220da-252fa-6cf-3a-3c-64d-3a-8eb-80ee-87c-720p/220da252fa6cf3a3c64d3a8eb80ee87c-720p.mp4
@@ -839,9 +839,9 @@ http://archive.org/download/freeda_2/subid0_par4_stre4ming_a85/1.mp4
 http://archive.org/download/black-christmas-1080p-dual-id-9656/Cuento%20de%20Navidad%202005%20CAST%20id_75725.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ysJte1iqN8pFQ470tumnViB1wHP.jpg" group-title="Fantasia",Cuentos Al Caer La Noche (2021)
 https://archive.org/download/00-coco/CU3NTOSD3L4N0CH3.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cWOLiRa8t75keYVBew0BSTwCpAF.jpg" group-title="Drama",CuestiÛn de sangre (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cWOLiRa8t75keYVBew0BSTwCpAF.jpg" group-title="Drama",Cuesti√≥n de sangre (2021)
 https://archive.org/download/00azucar/SDR/CU3ST10NS4NGR3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NWQyYjktMmMzYi00YjY2LWFmNTUtMWQyMzcwNWM2NWYzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",CUIDADO CON LOS EXTRA—OS 2016
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5NWQyYjktMmMzYi00YjY2LWFmNTUtMWQyMzcwNWM2NWYzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",CUIDADO CON LOS EXTRA√ëOS 2016
 http://ia801505.us.archive.org/31/items/sagifaj_zdenka_02/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jv679QR/cyborg.jpg" group-title="Ciencia Ficcion",Cyborg Girl
 https://archive.org/download/tinaco_20210330/Cyborg%20Girl%20.mkv
@@ -857,7 +857,7 @@ http://ia601408.us.archive.org/19/items/01_20201021_20201021/sub1d0_p4r4_5tre4m1
 http://ia801508.us.archive.org/13/items/01_20201023_202010/sub1d0_p4r4_5tre4m1ng/01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMzNDQ2NDEtODFkNS00NzQ1LWJiOGMtYjZiZDBjYmY5NmQ3XkEyXkFqcGdeQXVyMzYyODU2NTU@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",DC SUPER HERO GIRLS LEGENDS OF ATLANTIS
 http://ia801506.us.archive.org/18/items/sototo_patonce_01/01.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/de-caza-con-papa-2018-hd-1080p-720p-latino-portada.jpg "group-title="Comedia",DE CAZA CON PAP¡
+#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/de-caza-con-papa-2018-hd-1080p-720p-latino-portada.jpg "group-title="Comedia",DE CAZA CON PAP√Å
 http://archive.org/download/BdjckckKdcjdsjxcCbNxf/bdjckck%20kdcjdsjxc%20cb%20nxf.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0NTE1MDgwMl5BMl5BanBnXkFtZTYwNjQ0MDg5._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",De la cuna a la tumba 2003
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/8.mp4
@@ -877,7 +877,7 @@ http://ia601401.us.archive.org/7/items/dedicada-a-mi-ex/Dedicada%20a%20mi%20Ex.m
 https://archive.org/download/ck-2_20210106/AZS/D33PW4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyMzAwODYwOV5BMl5BanBnXkFtZTcwNjYxNjcyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Drama",DEF LEPPARD LA HISTORIA
 http://archive.org/download/img20200316111558/5ub1d0p4r457r34m1n6.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg" group-title="Romanticas",DÈjate llevar
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg" group-title="Romanticas",D√©jate llevar
 https://archive.org/download/descarga_202101/hgty/d3j4t3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MjEwNDYzNF5BMl5BanBnXkFtZTgwMzM0NzcwODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Terror",Del Otro Lado de la Puerta
 https://archive.org/download/del-otro-lado-de-la-puerta/Del%20otro%20lado%20de%20la%20puerta.mp4
@@ -899,7 +899,7 @@ http://archive.org/download/0000000_201912/320191080p.mp4
 http://archive.org/download/desde-mi-cielo/D35d3M1C1310.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Deseo de matar 2018
 http://archive.org/download/damiantellez78_gmail_362/Sthepensonprieto_ladron/362.mp4
-#EXTINF:-1 tvg-logo="https://www.pelisplanet.to/wp-content/uploads/2018/06/Despues-de-la-vida-202x300.jpg" group-title="Terror",DespuÈs de la vida (Afterlife)
+#EXTINF:-1 tvg-logo="https://www.pelisplanet.to/wp-content/uploads/2018/06/Despues-de-la-vida-202x300.jpg" group-title="Terror",Despu√©s de la vida (Afterlife)
 https://archive.org/download/00naran/jui/m4s4ll4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyYTRjNTgtYmI4Yy00MTFmLWEzYTUtOGNjZGZmNzEyMjZmXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",DESTINO FINAL 3
 http://archive.org/download/img-20200512-wa-0033/calidad%203.mp4
@@ -913,9 +913,9 @@ http://archive.org/download/screenshot-20200510-212518-facebook/dos_158944337957
 http://ia801509.us.archive.org/29/items/ziduyaliri_mail-register_08/08.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/D3VU3LV3M34M1G0H4N.jpg" group-title="Animacion",DEVUELVEME A MI GOHAN
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/1.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/1vpsJ0PfXmoIUW1M86Fc7qewnRP.jpg" group-title="Drama",DÌa de entrenamiento (2001)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/1vpsJ0PfXmoIUW1M86Fc7qewnRP.jpg" group-title="Drama",D√≠a de entrenamiento (2001)
 https://archive.org/download/disco-duro_202112/d143ntr3.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Independence-Day.jpg" group-title="Ciencia Ficcion",DÌa de la Independencia (op. 2)
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Independence-Day.jpg" group-title="Ciencia Ficcion",D√≠a de la Independencia (op. 2)
 http://archive.org/download/npr82752_zoqqa_1_201903/subid0_p4r4_str34ming_a85/1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDMxOGZhNWYtMzRlYy00Mzk5LWJjMjEtNmQ4NDU4M2QxM2UzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",DIAMANTE DE SANGRE
 http://archive.org/download/icon1_20190813/1.mp4
@@ -923,7 +923,7 @@ http://archive.org/download/icon1_20190813/1.mp4
 http://archive.org/download/di1_20200421/di1/di1.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFjNWY5NjQtMTJiNC00NjFlLWIxMGQtNzhmMmQ0MjhiZjQyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",DICHA
 https://archive.org/download/qu3fu3ch4o/d1ch4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/7OoFWIv9RzPhcKspB10wnW2gKgM.jpg" group-title="Documentales",Diego El ⁄ltimo AdiÛs
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/7OoFWIv9RzPhcKspB10wnW2gKgM.jpg" group-title="Documentales",Diego El √öltimo Adi√≥s
 https://archive.org/download/cacahu/d13g03lult.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/photo-grid-plus-1607619762040/D161M0N.jpg" group-title="Animacion",DIGIMON
 http://archive.org/download/photo-grid-plus-1607619762040/D161MONL4P3L1.avi
@@ -939,7 +939,7 @@ http://archive.org/download/89de-1a-413e-3c-0037522707c-025710c-8/DID05NH03574Mu
 https://archive.org/download/dfrte/d1s0m14.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3cUj0JRFcXmN7G2vBuWbRUQfjhw.jpg" group-title="Drama",Distancia De Rescate
 https://archive.org/download/00-trorinja/D1ST4NC14DERESC4TE.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/70vyk5XzrHRPH9VfbEQxh9FIvE3.jpg" group-title="Drama",Doce HuÈrfanos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/70vyk5XzrHRPH9VfbEQxh9FIvE3.jpg" group-title="Drama",Doce Hu√©rfanos (2021)
 https://archive.org/download/00-jicama/D0C3HU3RF4N0S.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Dr-Strange.jpg" group-title="Ciencia Ficcion",Doctor Strange (op. 2)
 https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/DRextra%C3%B1oLATHD.mp4
@@ -949,7 +949,7 @@ https://archive.org/download/00naran/jui/drstr4.mp4
 https://archive.org/download/00naran/23/dr3str4%C3%B10.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/014_20210112/014.jpg" group-title="Marvel Studio",Doctor Strange: El Hechizero Supremo
 http://archive.org/download/014_20210112/D0CT04%205T4AN63.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",DOCTOR SUE—O
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",DOCTOR SUE√ëO
 http://archive.org/download/0_20200402_202004/1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yNpSqsRuLyyrRltXvtrbXhZinqO.jpg" group-title="Comedia",Dog. Un viaje salvaje
 https://archive.org/download/00naran/22/d0gunv14jes4lv4j3.mp4
@@ -965,13 +965,13 @@ https://dl.dropboxusercontent.com/s/sjjsnx11rgofro9/Donnie.Darko.2001.SS_CANY.mp
 http://archive.org/download/DNMPRTINSoldadin/DNMPRTIN-%20soldadin.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTVhMzYxNjgtYzYwOC00MGIwLWJmZGEtMjgwMzgxMWUwNmRhXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",DORA EN LA CIUDAD PERDIDA
 http://archive.org/download/screenshot-20200425-151649/BD0RWL43XP0.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Doraemon TrilogÌa
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhZjRlNzctNTljNC00ZjU3LWI0YzItNTliNzAyMzJhNzZjXkEyXkFqcGdeQXVyMjQ4OTA4MDU@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Doraemon Trilog√≠a
 http://archive.org/download/doraemon_20200525/Doraemon.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3NTg3OTk0OV5BMl5BanBnXkFtZTcwODAwMzU1MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",Dos tontos en fuga
 https://archive.org/download/00sffdsg/fug4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNiMDY3MmQtZWU0MS00YTQyLThmNzUtNjc4YWI4MmY5NDlhXkEyXkFqcGdeQXVyNjUyNjYzNTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",DOWTOWN 81
 http://archive.org/download/downtown-81-jean-michel-basquiat/Downtown%2081%20%28Jean%20Michel%20Basquiat%29_.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MzE4NTUyMF5BMl5BanBnXkFtZTcwNzQ2NzAyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Dr Wong en AmÈrica
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MzE4NTUyMF5BMl5BanBnXkFtZTcwNzQ2NzAyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Dr Wong en Am√©rica
 https://ia800106.us.archive.org/23/items/EraseUnaVezEnChina6Dr.WongEnAmerica/Erase%20una%20vez%20en%20China%206%20-%20Dr.%20Wong%20en%20America.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/dr-jekyll-y-miss-hyde.jpg "group-title="Comedia",DR. JEKYLL & MS. HYDE
 http://archive.org/download/lucymosu80_gmail_0001/subid0_para_5tre4ming_A85/0002.mp4
@@ -989,7 +989,7 @@ http://archive.org/download/smas4/smas4.mp4
 http://archive.org/download/img20200327172529hdr/5ub1d0p0rm4rt1n.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkMWM1M2YtYTMwYy00YWZhLWE0ZjktZjhiNTMwMjQ2ZjU5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="Animacion",DRAGON BALL FREEZER VS EL PADRE DE GOKU
 http://archive.org/download/img20200220205421_202002/8DR460NB4LL.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgzNGQyNDgtYjViMS00ODRlLThjYmUtZTc2Y2JkOGJmNTljXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_FMjpg_UX1000_.jpg" group-title="Animacion",DRAGON BALL GT 100 A—OS DESPUES
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgzNGQyNDgtYjViMS00ODRlLThjYmUtZTc2Y2JkOGJmNTljXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_FMjpg_UX1000_.jpg" group-title="Animacion",DRAGON BALL GT 100 A√ëOS DESPUES
 http://archive.org/download/img20200313191011hdr/db35p3c14l03dr460nb4llG71004nn05d35pu35.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiNDJlNzAtZjk3ZC00NDhjLTlmNzMtNTJiNDM2NDU3NjI2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="Animacion",DRAGON BALL LA FUSION DE GOKU Y VEGETA
 http://archive.org/download/nam1s2/nam1s2.mp4
@@ -1023,7 +1023,7 @@ https://archive.org/download/00chayo/rt/du3r0d3.mp4
 https://archive.org/download/h1erb4/3rw1n.mp4
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/03/1ilviUUwqRzWDgOYqjZTmlUFbxR-200x300.jpg" group-title="Terror",Ecos de un crimen (2022)
 https://archive.org/download/ck-2_20210106/AZS/EC0SSS.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODY1NTU0OTQ4OV5BMl5BanBnXkFtZTgwMTY5MTMyNjE@._V1_FMjpg_UX1000_.jpg" group-title="Romanticas",Eddie Reynolds y los ¡ngeles de Acero
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODY1NTU0OTQ4OV5BMl5BanBnXkFtZTgwMTY5MTMyNjE@._V1_FMjpg_UX1000_.jpg" group-title="Romanticas",Eddie Reynolds y los √Ångeles de Acero
 https://archive.org/download/disco-duro_202112/3dd13r31n0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODgxMzdlZDMtZjAzYS00YjdkLTkwYTctYTAxZGUxZTQ4MmNjXkEyXkFqcGdeQXVyMzQ2NTU3OTg@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Drama",EGON SHIELE
 http://archive.org/download/egon.-schiele.-www.-mega-mkv.-com/Egon.Schiele.WWW.MEGA-MKV.COM.mkv
@@ -1031,13 +1031,13 @@ http://archive.org/download/egon.-schiele.-www.-mega-mkv.-com/Egon.Schiele.WWW.M
 https://archive.org/download/00papay-4/4b0gad0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJmZDZlMGItZGJhOC00Y2NjLTljNzctMDg5YmQ1NzU3NzYzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",EL AGUADOR
 http://archive.org/download/icon_20190814/2.mp4
-#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/05/6UqbcDQhCYpxboK58Z0eVfdeHcT-200x300.jpg" group-title="Comedia",El aÒo de mi graduaciÛn (2022)
+#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/05/6UqbcDQhCYpxboK58Z0eVfdeHcT-200x300.jpg" group-title="Comedia",El a√±o de mi graduaci√≥n (2022)
 https://archive.org/download/00naran/RTYU/GR4DUAC1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzczODMyNGUtNjRmOS00ZTA3LWIxOTgtOGE2YmYwZDA2YWU1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",El apartamento de joe
 http://archive.org/download/a.p.a.r.t.a.m.e.n.t.o.d.e.j.o.e/a.p.a.r.t.a.m.e.n.t.o.d.e.j.o.e.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/losmejoreexitos/4774CK1.jpg" group-title="Animacion",EL ARCO Y LA FLECHA ESCARLATA
 http://archive.org/download/mislistas/474CK1.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dX7xsqU7P6YY8hbgsi4T3ISMqWz.jpg" group-title="Drama",El arma del engaÒo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dX7xsqU7P6YY8hbgsi4T3ISMqWz.jpg" group-title="Drama",El arma del enga√±o
 https://archive.org/download/descarga_202101/dfdf/4rm43ng4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",EL ARO 1 2002
 http://ia601400.us.archive.org/14/items/000_20201114/00002.mp4
@@ -1053,7 +1053,7 @@ https://archive.org/download/pacto-matrimonial/3l4rt3d3ld14bl0.mp4
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/13.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlNjU4YTUtY2U5OS00NDUxLWFmMGEtMDhkYjQwYzdhZDk4XkEyXkFqcGdeQXVyNzEwNTIyMjU@._V1_UY268_CR3,0,182,268_AL_.jpg "group-title="Terror",EL ATAQUE DEL TIBURON DE 6 CABEZAS 2018
 http://ia601405.us.archive.org/26/items/000_20200306_202003/09.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzNDk5MTg4NV5BMl5BanBnXkFtZTYwNzI4Mzg2._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",EL ATRAPA SUE—OS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzNDk5MTg4NV5BMl5BanBnXkFtZTYwNzI4Mzg2._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",EL ATRAPA SUE√ëOS
 http://archive.org/download/trap_20200831/trap.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/85mrZBPfRXYd0Qs1Cc8o9q4WLOf.jpg" group-title="Terror",El Baile De Las Locas (2021)
 https://archive.org/download/00-jicama/3LB41LED3L4SL0CAS.mp4
@@ -1067,11 +1067,11 @@ https://archive.org/download/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20
 http://archive.org/download/1_20190830_20190830_1956/atte_sd_kiss/1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQzNTRiZWQtYjI0ZS00Zjg3LTliYTgtYmVjZWE1YzNlZmNmXkEyXkFqcGdeQXVyMjYxMzY2NDk@._V1_UY268_CR6,0,182,268_AL_.jpg" group-title="Drama",EL CABALLO DE DOS PATAS
 http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU0MzQwNjMtZGRiMC00M2UzLWE1YmItMWU3M2E0NmNkMDQ2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Terror",El cad·ver (2020)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU0MzQwNjMtZGRiMC00M2UzLWE1YmItMWU3M2E0NmNkMDQ2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Terror",El cad√°ver (2020)
 https://archive.org/download/uqload.com-video-2/uqload.com%20Video(2).mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/img-20210108-094240/IMG_20210108_094240.jpg" group-title="Infantiles",El cadaver de la novia
 http://archive.org/download/3-l-c-4-d-4-v-3-r-d-3-l-4-n-0-v-14/3L%20C4D4V3R%20D3%20L4%20N0V14.avi
-#EXTINF:-1 tvg-logo="http://archive.org/download/00_20201210/PhotoGrid_Plus_1607581756015.png" group-title="Infantiles",El Caldero M·gico
+#EXTINF:-1 tvg-logo="http://archive.org/download/00_20201210/PhotoGrid_Plus_1607581756015.png" group-title="Infantiles",El Caldero M√°gico
 http://archive.org/download/img-20200519-wa-0038/3lC4ld3r0M461c0.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzNWIwMzctOTE1YS00YjIyLTgwZGEtMTMxZDAzNzlmODMxXkEyXkFqcGdeQXVyMjgyMDk1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",EL CAMINO AL EL DORADO
 http://archive.org/download/img-20200422-204938/31Ic4mU1n0h4Ic143K1d0r4d0h4ck570r3n37.mp4
@@ -1085,7 +1085,7 @@ http://ia601408.us.archive.org/8/items/26_20200912_20200912_1335/sub1d0_p4r4_5tr
 http://archive.org/download/1_20200508_20200508_1806/4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Terror",EL CONJURO 3 (SUB)
 https://archive.org/download/images-1_20210609/C3.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Terror",EL CONJURO 3 el diablo me obligÛ a hacerlo
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Terror",EL CONJURO 3 el diablo me oblig√≥ a hacerlo
 https://archive.org/download/1_20210529_20210529_2235/3%F0%9D%99%87%F0%9D%98%BE0%F0%9D%99%85%F0%9D%99%90%F0%9D%99%8D0d1abl0%F0%9D%99%874%F0%9D%99%8F1%F0%9D%99%890.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/kjw1sQyXCeQ/kjw1sQyXCeQ.jpg" group-title="Terror",El conjuro 3 OPC2
 https://ia801409.us.archive.org/35/items/31-c-0-nju-90-3/31%20C0NJU90%203.mp4
@@ -1097,7 +1097,7 @@ https://archive.org/download/desct_202107/cu3.mp4
 https://archive.org/download/00papay-4/d3sper.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMDU5OTg0NV5BMl5BanBnXkFtZTcwNDQ4MjcwMw@@._V1_FMjpg_UX1000_.jpg" group-title="Accion",El dia del Apocalipsis 2010
 http://ia601505.us.archive.org/20/items/000_20200317_20200317_1332/06.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8MUHykBn2MRUqEmDkZrcxsMjk1c.jpg" group-title="Ciencia Ficcion",El dÌa despuÈs de maÒana (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8MUHykBn2MRUqEmDkZrcxsMjk1c.jpg" group-title="Ciencia Ficcion",El d√≠a despu√©s de ma√±ana (2004)
 https://archive.org/download/ck-2_20210106/derteer/d14m4n4n4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rIw4e4ZRMznLj21mASBcXIUuOsN.jpg" group-title="Drama",El diablo a todas horas (2020)
 https://archive.org/download/mi-video-1/d14b0.mp4
@@ -1109,7 +1109,7 @@ http://archive.org/download/865-fvhsbyslq-8-fj-45-wgsk/865FVHSBYSLQ8FJ45WGSK.mp4
 http://archive.org/download/3-ntr-3-n-4-nd-04-p-4-p-41-nf-4-n-71-l/D14R10D3L4PR1NC3%24%4021NF4N7IL.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ5NjJiYWQtYjAzMC00NGU0LWFlMDYtNGFiYjFlMWI1NWM0XkEyXkFqcGdeQXVyODQ0OTczOQ@@._V1_UY268_CR13,0,182,268_AL_.jpg" group-title="Drama",EL DISCRETO ENCANTO DE LA BURGUESIA
 http://ia801002.us.archive.org/21/items/3l.d15cr370.3nc4n70.d3.l4.bur6u35av/3l.d15cr370.3nc4n70.d3.l4.bur6u35%C3%ADa%28v%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/yaES7JqfmpEfMdvig82tF9K0wtP.jpg" group-title="Infantiles",El DragÛn De La Tetera
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/yaES7JqfmpEfMdvig82tF9K0wtP.jpg" group-title="Infantiles",El Drag√≥n De La Tetera
 https://archive.org/download/dfrte/3ldr4g0nt3t3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="Drama",EL EFECTO MARIPOSA
 http://archive.org/download/1590185949701925776827411877121/3.mp4
@@ -1133,9 +1133,9 @@ http://archive.org/download/freeda_2/subid0_par4_stre4ming_a85/6.mp4
 http://ia601401.us.archive.org/15/items/00_20201004/00012.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",EL EXORCISTA 1973
 http://ia601507.us.archive.org/19/items/00000_202008/000000028.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/img-20191207-wa-0012/PhotoGrid_Plus_1607617154415.png" group-title="Infantiles",EL EXTRA—O MUNDO DE JACK
+#EXTINF:-1 tvg-logo="http://archive.org/download/img-20191207-wa-0012/PhotoGrid_Plus_1607617154415.png" group-title="Infantiles",EL EXTRA√ëO MUNDO DE JACK
 http://archive.org/download/20151231-204803-001-002/3L3X7R4%C3%910MUND0D3J4CK.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",EL FANT¡STICO SR ZORRO
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",EL FANT√ÅSTICO SR ZORRO
 http://archive.org/download/18092064327status5752751c537e4dd6a1fd54293b37e439_20191221rrrrrr/3lf4nt45t1c05r20rr0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM3MTMwYTYtNTVmOC00NWU2LWJjNmMtY2YwMDM4NWM4NDhiXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Accion",EL FIN DE LOS DIAS
 https://archive.org/download/el-fin-de-los-dias-lat-720p-id-9946/El%20fin%20de%20los%20Dias%20LAT%20720p%20id_9946.mkv
@@ -1173,11 +1173,11 @@ http://archive.org/download/img-20200418-wa-0003/H088172.mp4
 http://archive.org/download/capture-2019-05-10-20-38-02/H088171.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D4563N3R4L35/5464D3LH0B137_thumb.jpg" group-title="Coleccion",El Hobbit
 http://archive.org/download/408817/408817.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg" group-title="Marvel Studio",EL HOMBRE ARA—A 1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg" group-title="Marvel Studio",EL HOMBRE ARA√ëA 1
 https://archive.org/download/desct_202107/h41.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Marvel Studio",EL HOMBRE ARA—A 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Marvel Studio",EL HOMBRE ARA√ëA 2
 https://archive.org/download/desct_202107/h42.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Marvel Studio",EL HOMBRE ARA—A 3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Marvel Studio",EL HOMBRE ARA√ëA 3
 https://archive.org/download/desct_202107/h43.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/20327617.jpg "group-title="Comedia",EL HOMBRE BICENTENARIO
 http://archive.org/download/tsvdywhxyshxhshdbxyspdjcyvtxskchzkskylfjwsj/tsvdywhxyshxhshdbxyspdjcyvtxskchzkskylfjwsj.mp4
@@ -1255,7 +1255,7 @@ http://archive.org/download/loco_20201015/loco.mp4
 https://archive.org/download/elmanto/elmanto.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/foHto5PECzIaKT4ADV9x2nWY0jg.jpg" group-title="Drama",El Mapa De Los Instantes Perfectos
 https://archive.org/download/esd_20210305/3lm4p4d3l0s1nt4nt3s.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyNTIxMjM4MF5BMl5BanBnXkFtZTcwNTI3MDU1MQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Cristianas",El m·rtir del Calvario (1952)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyNTIxMjM4MF5BMl5BanBnXkFtZTcwNTI3MDU1MQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Cristianas",El m√°rtir del Calvario (1952)
 https://archive.org/download/martir/martir.mp4
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YO3Y_mhvCqsOjSG_Nn85HmhRBlNxKnvDY5eoP99tpHJri0bbOF3ELe3K6wAAjyWlqQ=s1200" group-title="Mexicanas",EL MATRIMONIO ES COMO EL DEMONIO - (1969)
 https://archive.org/download/matrimonio-es-como-el-demonio-el-1969-01-30/Matrimonio%20es%20como%20el%20demonio%2C%20El%20-%20%281969%2001%2030%29.mp4
@@ -1269,15 +1269,15 @@ https://archive.org/download/elmonstruodetiemposremotos1953/El%20monstruo%20de%2
 http://archive.org/download/screenshot20200327230135/3lm0n57ru0d3l45n13v35w3bdlr2pl472n0.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/mundo-perdido.jpg" group-title="Ciencia Ficcion",El mundo perdido
 https://archive.org/download/1_20191226_20191226/4.avi
-#EXTINF:-1 tvg-logo="https://archive.org/download/f3b68280026051e4c9bcfcbcca67d365-720p/IMG_20210306_115125.jpg" group-title="Drama",El niÒo con pijama de rayas
+#EXTINF:-1 tvg-logo="https://archive.org/download/f3b68280026051e4c9bcfcbcca67d365-720p/IMG_20210306_115125.jpg" group-title="Drama",El ni√±o con pijama de rayas
 https://archive.org/download/f3b68280026051e4c9bcfcbcca67d365-720p/62374e59958f170eb31d3efeab32569c-720p.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/1.bp.blogspot.com/-a-JSWQ8HaJo/TdBIT5ftGuI/AAAAAAAAEfo/LB4fm-zleG0/s640/1201020351_f.jpg" group-title="Mexicanas",EL NI—O Y EL MURO
+#EXTINF:-1 tvg-logo="https://i0.wp.com/1.bp.blogspot.com/-a-JSWQ8HaJo/TdBIT5ftGuI/AAAAAAAAEfo/LB4fm-zleG0/s640/1201020351_f.jpg" group-title="Mexicanas",EL NI√ëO Y EL MURO
 https://archive.org/download/nino-y-el-muro-el-1965-mx/Ni%C3%B1o%20y%20el%20muro%2C%20El%20%281965%29%20MX.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kDVXsTZhssIJeZIMBC33MqmgkrQ.jpg" group-title="Infantiles",El origen de los guardianes (2012)
 https://archive.org/download/disco-duro_202112/0r1g3ngu4rd.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wuhRy3B36plwnAxAUKD0AgzZC7a.jpg" group-title="Romanticas",El padre de la novia
 https://archive.org/download/00naran/22/3lp4dr3d3l4n0v14.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/kThK88m39aUoAqIXmeNA4dDGm7F.jpg" group-title="Drama",El Padre Que Mueve MontaÒas (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/kThK88m39aUoAqIXmeNA4dDGm7F.jpg" group-title="Drama",El Padre Que Mueve Monta√±as (2021)
 https://archive.org/download/00-jicama/P4DREMU3B3M0NT4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Drama",EL PADRINO PARTE 2
 https://archive.org/download/00papay-4/p4dr1n2.mp4
@@ -1299,9 +1299,9 @@ http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/7.mp4
 http://archive.org/download/archive_01video/archive_01video.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RlMDhlY2MtMjQ1Zi00NzI5LTgxOTgtZjliNWMzYTY3NWZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",EL PLANETA DE LOS SIMIOS 2001
 http://archive.org/download/pplaneta-de-lossimios-2001/P14N37AD3L0SS1M10S.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",EL PLANETA DE LOS SIMIOS La RevoluciÛn
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",EL PLANETA DE LOS SIMIOS La Revoluci√≥n
 http://archive.org/download/p-14n-374-d-3-l-0-s-51-m-105-ev-01-uc-10-n/P14n374D3L0S51M105EV01UC10N.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Ciencia Ficcion",El planeta de los simios: confrontaciÛn
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Ciencia Ficcion",El planeta de los simios: confrontaci√≥n
 https://archive.org/download/ykn-et-aim-ku-qk-gu-uwpm-fu/YKnEtAImKuQkGuUWpmFU.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGI0N2EzZDktNDY3OS00NWFmLTgxZjEtMTc1OTNlMzQxNDZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",EL PLANETA DEL TESORO
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/10.mkv
@@ -1309,9 +1309,9 @@ http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/10.mkv
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/8.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0M2Y5M2QtZGIwMC00MzJjLThlMzYtNmE3ZTMzZTYzOGEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Drama",EL PRECIO DE LA VERDAD (Dark Waters)
 https://archive.org/download/00guay-4/4GU4S0SC.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_UY268_CR5,0,182,268_AL_.jpg" group-title="Accion",El precio del maÒana
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_UY268_CR5,0,182,268_AL_.jpg" group-title="Accion",El precio del ma√±ana
 http://ia801505.us.archive.org/22/items/69_20201012/sub1d0_p4r4_5tr34ming_A85/67.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210215-112351/IMG_20210215_112351.jpg" group-title="Infantiles",El prÌncipe de Egipto
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210215-112351/IMG_20210215_112351.jpg" group-title="Infantiles",El pr√≠ncipe de Egipto
 https://archive.org/download/d7226102311932d794fe48a56c164920-720p/d7226102311932d794fe48a56c164920-720p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ODg4MjYtY2U4NS00NTRlLWJlMDEtYjY2YzJkNWVhMDdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",EL PRINCIPE DE LAS TINIEBLAS
 http://ia801504.us.archive.org/12/items/3lPr1nc1p3D3L2sT1n13bl2sL2t1n0/El%20Pr%C3%ADncipe%20de%20las%20Tinieblas%20-%20Latino.mp4
@@ -1345,7 +1345,7 @@ http://archive.org/download/91-zksy-e-2-lxl.-ac-sl-1500/1.mp4
 http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/a98l9jruh8MuquTe6hrd8vSieN1.jpg" group-title="Comedia",El regreso a casa de Madea (2022)
 https://archive.org/download/ck-2_20210106/derty/3lr3gr3s0ac4s4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5NDUxNDU4OF5BMl5BanBnXkFtZTcwNDk1NjM1Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",EL REGRESO DE LA NANA MCFEE (M¡GICA)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5NDUxNDU4OF5BMl5BanBnXkFtZTcwNDk1NjM1Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",EL REGRESO DE LA NANA MCFEE (M√ÅGICA)
 http://archive.org/download/img20200314122721/3lr36r350d3l4n4n4m461c4dr1pl471n0.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/img-20210110-211122/IMG_20210110_211122.jpg" group-title="Terror",El regreso de los muertos vivientes 3
 http://archive.org/download/3-l-r-3-gr-3-s-0-d-3-l-0-s-mu-3-rt-0-s-3/3L%20R3GR3S0%20D3%20L0S%20MU3RT0S%203.mp4
@@ -1357,7 +1357,7 @@ http://archive.org/download/3-l-r-3-gr-3-s-0-d-3-l-0-s-mu-3-rt-0-s-2/3L%20R3GR3S
 http://archive.org/download/AnimalesFantsticos20182564564445646/El%20regreso%20de%20Mary%20Poppins%20%282018%29654564684646.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/3LR3GR350D3L6U3RR3R0L363ND4R10.jpg" group-title="Animacion",EL REGRESO DEL GUERRERO LEGENDARIO
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/10.mkv
-#EXTINF:-1 tvg-logo="https://archive.org/download/162hwcw-82/162hwcw82.jpg" group-title="Accion",El reinÛ prohibido
+#EXTINF:-1 tvg-logo="https://archive.org/download/162hwcw-82/162hwcw82.jpg" group-title="Accion",El rein√≥ prohibido
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjlehaioje2mja3oty2mdasimrhdgeiolsimjgwnjoxmdnloju6nthiztp/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjA3OTY2MDAsImRhdGEiOlsiMjgwNjoxMDNlOjU6NThiZTpjMGM1OmFkZmI6M2JkMjpjNzIwIiwibGpyaGUxOTAybnNjIiwibiIsMSwiM2NiZTMzMGE5MWUxYzcyOTJkMDM2ZDhiZTQ2NTQxOTMiXX0.K_2cMovgI_pKkua01RoZPOFhX-aCcJ2wsw2UDfM9P.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjhhN2RhNGMtM2VkYS00MjkwLTg4M2MtOWQ2ZTE2NTg0MTBmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Romanticas",El Resort Del Amor
 https://archive.org/download/pacto1/r3s0r.mp4
@@ -1365,7 +1365,7 @@ https://archive.org/download/pacto1/r3s0r.mp4
 http://archive.org/download/LaNiebla2007694185146148415/El%20Resplandor6541851465165165.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/A1PrC0mVUcMNF1165I6yw2djuG3.jpg" group-title="Drama",El rey del fin del mundo
 https://archive.org/download/00azucar/SDR/3LR3Y.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",EL REY LEON (CL¡SICA)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",EL REY LEON (CL√ÅSICA)
 http://archive.org/download/7_20190824/3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",EL REY LEON 2019
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/5.mkv
@@ -1383,23 +1383,23 @@ http://ia601503.us.archive.org/18/items/s-4nt-0/S4nt0.mp4
 https://archive.org/download/santoeneltesorodedracula1968/Santo%20en%20El%20tesoro%20de%20Dracula%20%281968%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/255_20210702/255.jpg" group-title="Comedia",El Santos vs la tetona Mendoza
 https://archive.org/download/3l-54-nt-0-v-5-l-4-t-3-t-0-n-4-m-3-nd-0-z/3l%2054NT0%20V5%20L4%20T3T0N4%20M3ND0Z.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",El seÒor de la guerra 2005
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",El se√±or de la guerra 2005
 http://ia601406.us.archive.org/16/items/000_20191215/1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDczN2I3NzItNjdlMS00YmNhLTkyODQtZGI1YWQ0NmViMTgwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",EL SE—OR DE LAS MOSCAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDczN2I3NzItNjdlMS00YmNhLTkyODQtZGI1YWQ0NmViMTgwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",EL SE√ëOR DE LAS MOSCAS
 http://archive.org/download/icon1_20190813/2.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D4563N3R4L35/3L53%C3%910RD3L054N1LL053LR370RN0D3LR3Y.jpg" group-title="Ciencia Ficcion",El SeÒor De Los Anillos : El Retorno Del Rey
+#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D4563N3R4L35/3L53%C3%910RD3L054N1LL053LR370RN0D3LR3Y.jpg" group-title="Ciencia Ficcion",El Se√±or De Los Anillos : El Retorno Del Rey
 http://archive.org/download/esdla-erdr/7074%20%283%29.avi
-#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D4563N3R4L35/3L53%C3%910RD3L054N1LL05L45D0570RR35.jpg" group-title="Ciencia Ficcion",El SeÒor De Los Anillos : Las Dos Torres
+#EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D4563N3R4L35/3L53%C3%910RD3L054N1LL05L45D0570RR35.jpg" group-title="Ciencia Ficcion",El Se√±or De Los Anillos : Las Dos Torres
 http://archive.org/download/unnamed_20210104/7074%20%282%29.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",EL SE—OR DE LOS ANILLOS EL RETORNO DEL REY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",EL SE√ëOR DE LOS ANILLOS EL RETORNO DEL REY
 http://archive.org/download/0trece/9.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",EL SE—OR DE LOS ANILLOS LA COMUNIDAD DEL ANIILLO
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",EL SE√ëOR DE LOS ANILLOS LA COMUNIDAD DEL ANIILLO
 http://archive.org/download/west_000/AN1LL0S.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",EL SE—OR DE LOS ANILLOS LAS DOS TORRES
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",EL SE√ëOR DE LOS ANILLOS LAS DOS TORRES
 http://archive.org/download/0trece/8.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/be718c6f25042d6e8e04f2f6c1b9b943/be718c6f25042d6e8e04f2f6c1b9b943.jpg" group-title="Ciencia Ficcion",El SeÒor De Los Anillos: La Comunidad Del Anillo
+#EXTINF:-1 tvg-logo="http://archive.org/download/be718c6f25042d6e8e04f2f6c1b9b943/be718c6f25042d6e8e04f2f6c1b9b943.jpg" group-title="Ciencia Ficcion",El Se√±or De Los Anillos: La Comunidad Del Anillo
 http://archive.org/download/be718c6f25042d6e8e04f2f6c1b9b943/7074%20%281%29.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qCqpxCygbxhZOv8YTEDZsYVrVBz.jpg" group-title="Clasics",El seÒor fotÛgrafo (1953)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qCqpxCygbxhZOv8YTEDZsYVrVBz.jpg" group-title="Clasics",El se√±or fot√≥grafo (1953)
 https://archive.org/download/ck-2_20210106/3334/carter.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg" group-title="Comedia",El show de Truman (1998)
 https://archive.org/download/00chich/tru4n.mp4
@@ -1439,9 +1439,9 @@ https://archive.org/download/el-tr4n5p05t4d0r/EL%20TR4N5P05T4D0R%204.mp4
 http://ia600206.us.archive.org/27/items/7H3.794N5P09/7H3.794N5P09739.93FU313D-ES-360.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="Accion",EL TRANSPORTADOR
 https://ia801500.us.archive.org/20/items/transportista1/transportista1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ysGVffWNPKzCENZU3U3Z4H6PS6g.jpg" group-title="Accion",El ⁄ltimo Duelo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ysGVffWNPKzCENZU3U3Z4H6PS6g.jpg" group-title="Accion",El √öltimo Duelo
 https://archive.org/download/cacahu/3lult1m0du3.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/20142202/20142202.jpg" group-title="Accion",El ˙ltimo hombre
+#EXTINF:-1 tvg-logo="https://archive.org/download/20142202/20142202.jpg" group-title="Accion",El √∫ltimo hombre
 https://archive.org/download/31-ult-1-m-0-h-0-mbr-3_202201/31%20ULT1M0%20H0MBR3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNkZmJiZTAtY2M3MC00ZTNjLThkYmQtNmMxMTg3ZTJlNDA4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Comedia",El Ultimo Mercenario
 https://archive.org/download/pacto1/ult1m0m3r.mp4
@@ -1495,7 +1495,7 @@ http://ia601401.us.archive.org/12/items/000_20191205_201912/1.mp4
 http://ia801506.us.archive.org/16/items/000_20201026/00009.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",ENREDADOS
 http://ia801500.us.archive.org/1/items/3NR3D4D0S2010/Enredados.2010.ENREDADOS.720p%20bak0r.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6sJNurxhjPMAwTj3bBGRPcNJ7j7.jpg" group-title="Documentales",EnsÈÒame El Camino A Casa
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6sJNurxhjPMAwTj3bBGRPcNJ7j7.jpg" group-title="Documentales",Ens√©√±ame El Camino A Casa
 https://archive.org/download/cacahu/3ns3%C3%B14c4m.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",ENTRE NAVAJAS Y SECRETOS
 http://archive.org/download/1_20200304_20200304_2329/1.mp4
@@ -1505,7 +1505,7 @@ http://archive.org/download/3-ntr-3-n-4-nd-04-p-4-p-41-nf-4-n-71-l/3NTR3N4ND04P4
 https://dl.dropbox.com/s/mqtimdzmxtb0s8q/Equilibrium%202002%20%28SS_CANY%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg "group-title="Comedia",EQUIPO AMERICA POLICIA MUNDIAL
 http://archive.org/download/te23am3o9d1atpwsp9w/teO921TAtpMSspq9w.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thwy91H/Erase-una-vez-en-mexico.jpg" group-title="Accion",…rase una vez en MÈxico (2003)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thwy91H/Erase-una-vez-en-mexico.jpg" group-title="Accion",√ârase una vez en M√©xico (2003)
 https://archive.org/download/sciyt/Mhuc/11up.avi
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/eragon.jpg" group-title="Fantasia",Eragon
 https://archive.org/download/logo-2_20230628/e4g0.mp4
@@ -1519,9 +1519,9 @@ http://archive.org/download/aui_20200910/aui.mp4
 https://archive.org/download/j-1_20210618/3sc4p3c4nn1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hBD44n4mmcckzM7rDgB3CGi12f7.jpg" group-title="Terror",Escape Room 2 Mueres por salir (2021)
 https://archive.org/download/00azucar/SDR/SC4P3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_FMjpg_UX1000_.jpg" group-title="DC Comics",EscuadrÛn Suicida (2021)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_FMjpg_UX1000_.jpg" group-title="DC Comics",Escuadr√≥n Suicida (2021)
 https://archive.org/download/pacto1/su1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_FMjpg_UX1000_.jpg" group-title="Accion",EscuadrÛn Suicida
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Escuadr√≥n Suicida
 http://archive.org/download/streamg1994/J4M/35cu4dr0n%205u1c1d4.mkv
 #EXTINF:-1 tvg-logo="http://archive.org/download/img-20191207-wa-0012/PhotoGrid_Plus_1607617114632.png" group-title="Infantiles",ESCUELA DE MIEDO
 http://archive.org/download/20151231-204803-001-002/35CU3L4D3M13D0.avi
@@ -1547,7 +1547,7 @@ http://archive.org/download/mio71_yopmail_3/2.mp4
 http://archive.org/download/mio71_yopmail_3/3.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/submenu/23574c10nz0mb132.jpeg" group-title="Terror",ESTACION ZOMBIE 2
 https://archive.org/download/3st-4ci-0n-z-0mb-13-2-p-3n-1nsula/3st4ci0n%20z0mb13%202%20P3n1nsula.ia.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",ESTACI”N ZOMBIE
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",ESTACI√ìN ZOMBIE
 http://archive.org/download/prometheus-ciencia-ficcion/3s7ac10n%20z0m313.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/90b453087dc4a4a32584cd27993b6878.jpg "group-title="Comedia",ESTE CUERPO NO ES MIO
 http://archive.org/download/00copia_20191122/z4.mp4
@@ -1597,7 +1597,7 @@ http://archive.org/download/mislistas/H4LL0W33N5C00B.avi
 http://archive.org/download/streamg1994/J4M/F13st4%20d3%20N4v1d4d%203n%20l4%200f1c1n4.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg" group-title="Terror",Fin de semana en Croacia (2022)
 https://archive.org/download/ck-2_20210106/derty/f1nd3s3m4n.mp4
-#EXTINF:-1 tvg-logo="https://home.pelisplus.lat/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuMPbgcM3Fp30pneRCVd7lA4EHxN.jpg&w=256&q=75" group-title="Drama",Flamin Hot El sabor que cambiÛ la historia ( 2023 )
+#EXTINF:-1 tvg-logo="https://home.pelisplus.lat/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuMPbgcM3Fp30pneRCVd7lA4EHxN.jpg&w=256&q=75" group-title="Drama",Flamin Hot El sabor que cambi√≥ la historia ( 2023 )
 https://archive.org/download/logo-2_20230628/fh3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2MTc0MTAtN2VlYi00N2ZkLTlhNmUtMjcyZDg0YzNiYjEyXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="DC Comics",Flash (1990)
 https://archive.org/download/l1g4_20210319/FL45H%201990.mp4
@@ -1653,7 +1653,7 @@ http://archive.org/download/2_20200814_20200814_0542/2.mp4
 http://archive.org/download/2_20200814_20200814_0542/1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/An8C3wAxdB2Oo3fOG70PZ10PxTN.jpg" group-title="Drama",Garra
 https://archive.org/download/00naran/23/g4rr4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hSkcS5udA01NubLGy6hJt9yUHSi.jpg" group-title="DC Comics",Gat˙bela Acechada (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hSkcS5udA01NubLGy6hJt9yUHSi.jpg" group-title="DC Comics",Gat√∫bela Acechada (2022)
 https://archive.org/download/ck-2_20210106/G4TUB3L4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzN2VkY2ItYmQ4YS00MjFmLWJhZDQtYWY1NWQ2NTA5NDNlXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",GEMELOS
 http://archive.org/download/icon1_20190813/10.mp4
@@ -1753,23 +1753,23 @@ http://archive.org/download/05_20200610/05.mp4
 http://ia601507.us.archive.org/18/items/Sh1r5kH1pp6/sharuk%20happy.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 1 la piedra filosofal
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 2 la c·mara secreta
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 2 la c√°mara secreta
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg" group-title="Documentales",Harry Potter 20∫ Aniversario Regreso a Hogwarts (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg" group-title="Documentales",Harry Potter 20¬∫ Aniversario Regreso a Hogwarts (2022)
 https://archive.org/download/mi-video-1/H4R1P00.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 3 el prisionero de Azkaban
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 4 el c·liz de fuego
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 4 el c√°liz de fuego
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 5 la orden del FÈnix
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 5 la orden del F√©nix
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/5.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 6 el misterio del prÌncipe
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 6 el misterio del pr√≠ncipe
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 7 las reliquias de la muerte (1™ parte)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 7 las reliquias de la muerte (1¬™ parte)
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/7.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 8 las reliquias de la muerte (2™ parte)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",Harry Potter 8 las reliquias de la muerte (2¬™ parte)
 http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/v5ZCVgxlFmlpFnR9DWVUkOVw4hW.jpg" group-title="Drama",Hasta el ⁄ltimo Hombre
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/v5ZCVgxlFmlpFnR9DWVUkOVw4hW.jpg" group-title="Drama",Hasta el √öltimo Hombre
 https://archive.org/download/00naran/pjki/h4st4ultim0.mp4
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/03/45yBV8SuVkCAgp9UgvmrJQsTHLD-200x300.jpg" group-title="Romanticas",Hasta que nos volvamos a encontrar (2022)
 https://archive.org/download/ck-2_20210106/AZS/H4ST43NC0NTRA.mp4
@@ -1811,9 +1811,9 @@ http://archive.org/download/streamg1994/J4M/h3rm4n0%20050.mkv
 http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/2.mkv
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/paul_blart_mall_cop-755606824-large.jpg "group-title="Comedia",HEROE DE CENTRO COMERCIAL
 http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/1.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fKfilUsKxbJSAIP7wgIUX6V77MB.jpg" group-title="Accion",HÈroe De Dos Mundos (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/fKfilUsKxbJSAIP7wgIUX6V77MB.jpg" group-title="Accion",H√©roe De Dos Mundos (2021)
 https://archive.org/download/00-jicama/H3R03D3D0SMUND0S.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MDE4NTMtNDY3My00MWQ4LWEwZTQtMDA1NTE0NGQ5YTcyXkEyXkFqcGdeQXVyNzQ4MzcwODk@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",HEY ARNOLD LA PELÕCULA DE LA SELVA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU3MDE4NTMtNDY3My00MWQ4LWEwZTQtMDA1NTE0NGQ5YTcyXkEyXkFqcGdeQXVyNzQ4MzcwODk@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",HEY ARNOLD LA PEL√çCULA DE LA SELVA
 http://ia801501.us.archive.org/33/items/4RN0LUN4P3L1JUNGL4/4RN0LUN4P3L1JUNGL4480.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMTU0YWQtMjlkMi00MzI0LWJkYmMtNzVlMjMyYjY4ODJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",HEY ARNOLD LA PELICULA
 http://archive.org/download/1_20200419_20200419_2319/sub1d0_p4r4_5t3aming_A85/3.mp4
@@ -1845,7 +1845,7 @@ http://archive.org/download/T81818M8787B87L544672p/40rr1bl3.B02232.2011.avi
 http://archive.org/download/img20200311164426/h0r70ndvr1pl471n0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",HOTEL TRANSILVANIA 3
 http://archive.org/download/20200206210101/tran240p.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/0727455/0727455.jpg" group-title="Infantiles",Hotel Transylvania transformanÌa
+#EXTINF:-1 tvg-logo="https://archive.org/download/0727455/0727455.jpg" group-title="Infantiles",Hotel Transylvania transforman√≠a
 https://archive.org/download/26339e-40c-9f-51eeb-17e-018b-5f-5629898/26339e40c9f51eeb17e018b5f5629898.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM2YjU1NDAtNTUyMC00MzQyLWJjY2YtMDRiZjBhMmU2OTU0XkEyXkFqcGdeQXVyMTU3MzMxNg@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",HOUSE OF DARKNESS
 http://archive.org/download/ANIME_20190514/TERROR.mp4
@@ -1887,9 +1887,9 @@ https://archive.org/download/00sffdsg/1nf13rn.mp4
 http://ia601405.us.archive.org/26/items/000_20200306_202003/01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU5MmY0ZjctYTNlOS00MDIyLWJkZTAtNzBiOTkyNWI5MGY2XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",Infinito
 https://archive.org/download/00chayo/rt/1nf1n.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/a2OYRUJlUnAN0j5vCuY4g5vsXh6.jpg" group-title="Accion",Inframundo 2 EvoluciÛn
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/a2OYRUJlUnAN0j5vCuY4g5vsXh6.jpg" group-title="Accion",Inframundo 2 Evoluci√≥n
 http://fina.dyndns.tv/Peliculas/Underworld%2002%20Evolution.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/gk5YmlzTroNBKgqt03FITTqxfMh.jpg" group-title="Accion",Inframundo 3 La RebeliÛn De Los Lycans
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/gk5YmlzTroNBKgqt03FITTqxfMh.jpg" group-title="Accion",Inframundo 3 La Rebeli√≥n De Los Lycans
 http://fina.dyndns.tv/Peliculas/Underworld%2003%20la%20revelion%20de%20los%20Licantropos.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/xPXj1o7BVbBAHVzsUMED4LM0YiC.jpg" group-title="Accion",Inframundo 4 El Despertar
 http://fina.dyndns.tv/Peliculas/Underworld%2004%20El%20Despertar.mkv
@@ -1905,7 +1905,7 @@ http://archive.org/download/1ns1d103s4_201812/insidious%204.ogv
 https://archive.org/download/cacahu/1nst1n.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Interstellar-2014.jpg" group-title="Ciencia Ficcion",Interstellar (2014)
 https://archive.org/download/interstellar-2014/Interstellar%20%282014%29.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6B1ui76IDz0fLzdu0gMS60KnJAS.jpg" group-title="Ciencia Ficcion",InvasiÛn CÛsmica (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/6B1ui76IDz0fLzdu0gMS60KnJAS.jpg" group-title="Ciencia Ficcion",Invasi√≥n C√≥smica (2021)
 https://archive.org/download/00-jicama/1NV4C10NC0SM1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYyY2NlMzktZWE4Yi00ZjkxLWJjZGItNTgyMDU3YTc4MTlkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",INVAZOR ZIM Y EL PODER DE FLORPUS
 http://archive.org/download/img-20200518-wa-0028/aliehdvdhdbe2344.mp4
@@ -1953,7 +1953,7 @@ http://archive.org/download/05kaMAJAAKDO3i2Mn2195ss/05JaCl12sKo40Mn05.mp4
 http://archive.org/download/54321JamALpAO45Jmkss/03JaIPlQMnBAh3I03.mp4
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/05/mt48UggjbsQP1XGITrLbqBqEc5a-200x300.jpg" group-title="Comedia",Jackass 4 5 (2022)
 https://archive.org/download/00naran/RTYU/J4CCSS.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/8966a4448e955abd299743a9e6bf44e4.jpg "group-title="Comedia",JACKASS EL ABUELO SINVERG‹ENZA
+#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/8966a4448e955abd299743a9e6bf44e4.jpg "group-title="Comedia",JACKASS EL ABUELO SINVERG√úENZA
 http://archive.org/download/54321JamALpAO45Jmkss/04JaLmZ2qwU23Ika04.mp4
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/03/3drKDbiGXA8LVpDAkqhLXnwgcRP-210x300.jpg" group-title="Comedia",Jackass Por Siempre (2022)
 https://archive.org/download/ck-2_20210106/3334/j4ccs.mp4
@@ -1987,7 +1987,7 @@ https://archive.org/download/e3q4KFRc2L0pVVyxjMPH/e3q4KFRc2L0pVVyxjMPH.mp4
 https://archive.org/download/johnny-english-2/Johnny%20English%202.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",JOJO RABBIT
 http://archive.org/download/2_20200303/2.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210215-112351_202102/IMG_20210215_112328.jpg" group-title="Infantiles",Joseph el rey de los sueÒos
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210215-112351_202102/IMG_20210215_112328.jpg" group-title="Infantiles",Joseph el rey de los sue√±os
 https://archive.org/download/d7226102311932d794fe48a56c164920-720p_202102/1efb5833c62fc8b0224b4387e6f95f88-720p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjY0YzYwM2YtMzcyOC00YmFjLTgxMzEtNzg0YjEwYjlhY2I5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",JOVENES BRUJAS (SUB)
 http://archive.org/download/tecnicas-para-extender-una-conversacion-en-ingles-2x/J0V3N3SBRUJAS.mkv
@@ -2031,7 +2031,7 @@ http://archive.org/download/000_20201228/jur4551cp4rk3.mkv
 http://archive.org/download/1_20190715_20190715_2033/2.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Jurassic-Park.jpg" group-title="Ciencia Ficcion",Jurassic Park
 http://archive.org/download/1_20190715_20190715_2033/1.avi
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Reino-Caido-Jurassic.jpg" group-title="Ciencia Ficcion",Jurassic World: El Reino CaÌdo
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Reino-Caido-Jurassic.jpg" group-title="Ciencia Ficcion",Jurassic World: El Reino Ca√≠do
 http://archive.org/download/1j5_20191207/1J5.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Jurassic-World.jpg" group-title="Ciencia Ficcion",Jurassic World
 http://archive.org/download/1_20190715_20190715_2033/4.mp4
@@ -2049,7 +2049,7 @@ http://archive.org/download/GFKRHGFOREVER_201905/%5BGF%5DKRHGFOREVER.mp4
 http://archive.org/download/k1_20200907/k1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E3YjliMWEtYzlmOC00NmU5LWE4NGItNmIyZmNkZjkwNTA0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",karate kid 2
 http://archive.org/download/k2_20200907/k2.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk0NzA4MTMtNGQ3Zi00OTdlLThiZmQtOTI0YWEyNDFiMTg2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",K·rate kid 3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk0NzA4MTMtNGQ3Zi00OTdlLThiZmQtOTI0YWEyNDFiMTg2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",K√°rate kid 3
 http://archive.org/download/k3_20200907/k3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk0NzA4MTMtNGQ3Zi00OTdlLThiZmQtOTI0YWEyNDFiMTg2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Karate Kid III
 https://archive.org/download/k-4r-4t-3-k-1d-3/k4r4t3%20k1d%203.mp4
@@ -2125,15 +2125,15 @@ https://archive.org/download/0hyu_20210713/l4b3ll3s.mp4
 http://ia601509.us.archive.org/23/items/000_20200122_202001/3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWIyYjMxZTMtZGUyNy00N2UwLTgwNjctOWQ1OGMzN2VlMDExXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Accion",La busqueda
 https://archive.org/download/00naran/24/l4busqu3d4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxNzY5MTU0M15BMl5BanBnXkFtZTgwMzc3NTMxMjE@._V1_FMjpg_UX1000_.jpg" group-title="Terror",LA CABA—A DEL DIABLO
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxNzY5MTU0M15BMl5BanBnXkFtZTgwMzc3NTMxMjE@._V1_FMjpg_UX1000_.jpg" group-title="Terror",LA CABA√ëA DEL DIABLO
 https://archive.org/download/00pa_20210706/l4c4b4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA CABA—A EN EL BOSQUE 2012
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA CABA√ëA EN EL BOSQUE 2012
 http://ia601503.us.archive.org/18/items/000_20191214/5.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210201-232437/IMG_20210201_232437.jpg" group-title="Cristianas",La cabaÒa
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210201-232437/IMG_20210201_232437.jpg" group-title="Cristianas",La caba√±a
 https://archive.org/download/l-4-c-4-b-4n-4/L4%20C4B4%C3%914.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5eNrWoqKwpvrH8N4gajZsw0yUee.jpg" group-title="Ciencia Ficcion",La cabeza de la araÒa
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5eNrWoqKwpvrH8N4gajZsw0yUee.jpg" group-title="Ciencia Ficcion",La cabeza de la ara√±a
 https://archive.org/download/00naran/23/l4c4b3z4d3l4ar4%C3%B14.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/kpgAr5tYqLakIX4s4y9JFwLMj8X.jpg" group-title="Documentales",La CacerÌa De Bin Laden (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/kpgAr5tYqLakIX4s4y9JFwLMj8X.jpg" group-title="Documentales",La Cacer√≠a De Bin Laden (2021)
 https://archive.org/download/00-coco/L4CAZ3R1AD3B1NL4D3.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/30/19/22/1067227.jpg" group-title="Terror",La Caceria
 https://archive.org/download/9781433670404/l4c4z4.mp4
@@ -2151,13 +2151,13 @@ https://archive.org/download/ck-2_20210106/L4C4S4.mp4
 https://archive.org/download/video-la-casa-de-cera-.mp4/Video%20la-casa-de-cera%20Descargar.mp4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ4Y2E5ODktODI5ZS00ZGVkLTgyZTEtNWY1ZjNiZTFjOTE3XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA CASA DE JACK
 http://archive.org/download/20200517-004529/7phjfig34hkgj12vkko7gsda.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk1NWUyMmYtMWFmNi00NzY2LThkNTUtYTRhYWY2NTg4MGQwXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",La Casa De Las Flores La PelÌcula
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk1NWUyMmYtMWFmNi00NzY2LThkNTUtYTRhYWY2NTg4MGQwXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",La Casa De Las Flores La Pel√≠cula
 https://archive.org/download/00-sierte/fl0r3s.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODczNzBhOWMtZGNlOS00YjBhLWI2ZDgtMzA2MjFkZmJhNTNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",la casa del terror
 http://archive.org/download/hunted_202101/hunted.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/96900_173x256.jpg "group-title="Comedia",La Chica de Mi SueÒos
+#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/96900_173x256.jpg "group-title="Comedia",La Chica de Mi Sue√±os
 http://archive.org/download/15901838363786590333136748515875/2.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg" group-title="Terror",La Chica En El SÛtano
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg" group-title="Terror",La Chica En El S√≥tano
 https://archive.org/download/cacahu/ch1c4s0t.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jvBEq1ncn0zxwfaBQTpDnoog8jb.jpg" group-title="Comedia",La Ciudad Perdida (opc2)
 https://archive.org/download/l-4-c-1ud-4d-p-3rd-1d-4/l4%20c1ud4d%20p3rd1d4.mp4
@@ -2173,7 +2173,7 @@ http://archive.org/download/L2C0S21982EspaolLatinoZonaHQ/La%20cosa%20(1982)%20On
 https://archive.org/download/cacahu/l4cumbr3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5Njg1MzIwNl5BMl5BanBnXkFtZTgwNDU1NjczMDI@._V1_FMjpg_UX1000_.jpg" group-title="Terror",LA CURA SINIESTRA
 https://archive.org/download/00pera/l4cur4.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/n3G5XLqmJSs4RvozoIsqaTWTHRq.jpg" group-title="Comedia",La Dama De La MansiÛn (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/n3G5XLqmJSs4RvozoIsqaTWTHRq.jpg" group-title="Comedia",La Dama De La Mansi√≥n (2021)
 https://archive.org/download/00-jicama/L4D4M4D3L4M4N.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U3ZDBkYWUtNDY3Ny00OTliLTgxNTAtY2QwZTQxMmEwOTQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",LA DAMA Y EL VAGABUNDO (Live Action)
 http://archive.org/download/img20200315133140/V464BUND02019.mp4
@@ -2181,7 +2181,7 @@ http://archive.org/download/img20200315133140/V464BUND02019.mp4
 http://archive.org/download/baga2/baga2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTI1ZDc1OTItM2EzNS00ODMxLWIxYzctOTc5YWNiYzI3NGZiXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",la dama y el vagabundo
 http://archive.org/download/baga_20200826/baga.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/mzTNGnLG6LTHmrqrY0IADHDuyOJ.jpg" group-title="Terror",La DesapariciÛn De Mam·
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/mzTNGnLG6LTHmrqrY0IADHDuyOJ.jpg" group-title="Terror",La Desaparici√≥n De Mam√°
 https://archive.org/download/cacahu/d3s4p4r1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20210123-130610/IMG_20210123_130610.jpg" group-title="Mexicanas",La dictadura perfecta
 https://archive.org/download/l-4-d-1-ct-4-ur-4-p-3-rf-3-ct-4/L4%20D1CT4UR4%20P3RF3CT4.mp4
@@ -2215,7 +2215,7 @@ http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/8.avi
 http://archive.org/download/bill.-1.-dvd.-lat.-www.-hackstore.-net/BILL.1.DVD.LAT.Www.Hackstore.Net.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",LA FIESTA DE LAS SALCHICHAS
 https://archive.org/download/00gt_20210720/s4lch1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9qxQMR5aQXSXkGvgyKnI4otEC3v.jpg" group-title="Fantasia",La fiesta del m·s all· (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9qxQMR5aQXSXkGvgyKnI4otEC3v.jpg" group-title="Fantasia",La fiesta del m√°s all√° (2021)
 https://archive.org/download/00azucar/SDR/L4F13ST.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2//97Wt2aUfGVfZ2hg7zVwmIV5PyZT.jpg" group-title="Drama",La fuga de alcatraz
 https://archive.org/download/logo-2_20230628/alc4t1.mp4
@@ -2235,13 +2235,13 @@ http://archive.org/download/hoyivuc_mailprotech_1_201902/1.mp4
 https://archive.org/download/00guay-4/th3f4rm.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NDE0ODYyNF5BMl5BanBnXkFtZTcwNjQ3NzAzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LA GRANJA
 http://archive.org/download/13nanwmen3m2mn4_2m42sert/13NANWMENW%2856565FNSanr%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/4238572/4238572.jpg" group-title="Accion",La guerra del maÒana
+#EXTINF:-1 tvg-logo="https://archive.org/download/4238572/4238572.jpg" group-title="Accion",La guerra del ma√±ana
 https://archive.org/download/l-4-gu-3-rr-4-d-3-l-m-4n-4-n-4/L4%20GU3RR4%20D3L%20M4%C3%914N4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tgTW8fnDEVppYjv6Xxa7P0Uo23G.jpg" group-title="Drama",La Hija del Rey (2022)
 https://archive.org/download/ck-2_20210106/H1J4R3Y.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODY3OGEyMTgtYTZjZi00Y2YzLWFjY2UtMjEwYWE1MjRkOTc4XkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA HORA DE TU MUERTE
 http://archive.org/download/img20200311225555/H0r4d37umu3r73.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",La increÌble vida de Walter Mitty (2013)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",La incre√≠ble vida de Walter Mitty (2013)
 https://archive.org/download/LaIncreibleVidaDeWalterMitty/la%20increible%20vida%20de%20walter%20mitty.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg3NThkMDItZGVjMi00ZmZlLTk0YjQtNjA0OWY2YmMyYWM1XkEyXkFqcGdeQXVyNjM1NzYzMDk@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Clasics",La Invasion De Los Hombres Del Espacio - 1957
 https://archive.org/download/LaInvasionDeLosHombresDelEspacio1957/La%20invasion%20de%20los%20hombres%20del%20espacio%20(1957).mp4
@@ -2287,7 +2287,7 @@ https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
 http://ia601504.us.archive.org/29/items/000_20200127_202001/1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzMzAyNTE2N15BMl5BanBnXkFtZTcwNzM1NDg2OA@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA MASACRE DE TEXAS 3D
 http://ia601506.us.archive.org/14/items/000_20201021/00014.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg4ZjQ4OGUtZjkxMi00Y2I2LWEzNTAtODI2ZjkxMGVjNTQwXkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",La m·scara del Zorro (1998)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg4ZjQ4OGUtZjkxMi00Y2I2LWEzNTAtODI2ZjkxMGVjNTQwXkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",La m√°scara del Zorro (1998)
 https://archive.org/download/mascarazorra1/mascarazorra1.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/51PQKjhh3IL._AC_.jpg "group-title="Comedia",LA MASCARA
 http://archive.org/download/img20200212wa0133/v4l3nc14.mp4
@@ -2307,7 +2307,7 @@ https://archive.org/download/LaMomia1932Espaol/La%20Momia%20-1932-%20espa%C3%B1o
 http://archive.org/download/uranio94_yopmail_2/6.MP4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4NDIzMDY1OV5BMl5BanBnXkFtZTcwNjQxMzk3MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",LA MOMIA 3 LA TUMBA DEL EMPERADOR DRAGON
 http://archive.org/download/uranio94_yopmail_2/3.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/momia-la-tumba-del-emperador.jpg" group-title="Ciencia Ficcion",La momia: La tumba del emperador dragÛn
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/momia-la-tumba-del-emperador.jpg" group-title="Ciencia Ficcion",La momia: La tumba del emperador drag√≥n
 http://archive.org/download/uranio94_yopmail_2/3.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/La-Momia-regresa.jpg" group-title="Ciencia Ficcion",La Momia: Regresa
 https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/L4m0m14.2.avi
@@ -2321,9 +2321,9 @@ https://archive.org/download/00-sierte/l4mu3rt.mp4
 http://archive.org/download/4-qu-4-m-4-n/W0ND3R.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMwMWM1MWMtOGJlYS00NmIyLWI0MjYtNjJkNDI5OWQ2YjE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA NIEBLA
 http://archive.org/download/LaNiebla2007694185146148415/La%20niebla%202007694185146148415.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwMDU3MWUtZTdiMy00Yjg5LWFiNWYtYTRmZGExNzk5YjQ2XkEyXkFqcGdeQXVyNTUwOTkzMzY@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA NI—ERA: REINA LETAL
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwMDU3MWUtZTdiMy00Yjg5LWFiNWYtYTRmZGExNzk5YjQ2XkEyXkFqcGdeQXVyNTUwOTkzMzY@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA NI√ëERA: REINA LETAL
 http://archive.org/download/ln2dychgd/ln2dychgd.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA NI—ERA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA NI√ëERA
 http://archive.org/download/20200518-104352/7plj45fh2fjdjjw2g2bn23f.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/D_NQ_NP_868324-MLM29697985014_032019-O.jpg "group-title="Comedia",LA NOCHE ANTERIOR
 http://ia801505.us.archive.org/28/items/sara_royalmarket_LNA/LNA.mp4
@@ -2349,13 +2349,13 @@ http://archive.org/download/12mlapo4gtm2egm4pm/12mLApo4GTM2egM4pm.mp4
 http://archive.org/download/12mlapo4gtm2egm4pm/11Nl4p09gtm1m3Pw.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/La_peor_semana-451894454-large.jpg "group-title="Comedia",LA PEOR SEMANA
 http://archive.org/download/DmllkfncXkfndkxkc/dmllkfnc%20xkfndkxkc.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWRiYzA0NTktMzQ0YS00NDFhLWE3MjUtNDE1OWJkNzIzZmE4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LA PEQUE—A TRAVIESA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWRiYzA0NTktMzQ0YS00NDFhLWE3MjUtNDE1OWJkNzIzZmE4XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LA PEQUE√ëA TRAVIESA
 https://archive.org/download/0000000_201912/e20181080p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBkYjYxYjUtMTdmMS00MDJhLWEyNzktYzg2OWY5NWY0Y2QyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="Drama",LA PIANISTA
 https://archive.org/download/a73pt60jaz_20200614/a73Pt60jaZ.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/L4PR1NC354DURM13N73.jpg" group-title="Animacion",La princesa durmiente del castillo embrujado
 http://archive.org/download/002.-l-4-pr-1nc-354-durm-13nt-3-del-c-45t-1ll-0-3mbruj-4d-0/002.%20L4%20Pr1nc354%20Durm13nt3%20del%20C45t1ll0%203mbruj4d0.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY3MThlZjEtOTE5YS00OGNkLTg4NjEtZDg3N2FiMTE1MzUxXkEyXkFqcGdeQXVyMTExMDczNTI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA PROCESI”N DE MERCY BLACK
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY3MThlZjEtOTE5YS00OGNkLTg4NjEtZDg3N2FiMTE1MzUxXkEyXkFqcGdeQXVyMTExMDczNTI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA PROCESI√ìN DE MERCY BLACK
 http://archive.org/download/mer_20200912/mer.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-a8m31TSpHEs/UjoZdkAg2nI/AAAAAAAAF8g/uk3pMmTu410/s400/lapropuesta-poster.jpg" group-title="Drama",La Propuesta
 https://onedrive.live.com/download?cid=D2A6B8A160F20394&resid=D2A6B8A160F20394%21169&authkey=%21AMmohnC_a43F1Ec&
@@ -2379,7 +2379,7 @@ http://ia601502.us.archive.org/17/items/silonuber_mozej_0/2.mp4
 http://ia801502.us.archive.org/17/items/silonuber_mozej_0/3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1MDI1NDM1NF5BMl5BanBnXkFtZTcwMzU5OTkyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LA TIERRA DE LOS MUERTOS VIVIENTES 2005
 http://ia801400.us.archive.org/20/items/01_20201028_20201028/sub1d0_p4r4_5tre4m1ng/01.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzcwMGU3MDAtYzEzZi00OWIyLTgzMDMtNGQ3NTY3OGE2ZDIwXkEyXkFqcGdeQXVyNDMzNDc4Mg@@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="Accion",La trampa de la araÒa 2019
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzcwMGU3MDAtYzEzZi00OWIyLTgzMDMtNGQ3NTY3OGE2ZDIwXkEyXkFqcGdeQXVyNDMzNDc4Mg@@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="Accion",La trampa de la ara√±a 2019
 http://ia601402.us.archive.org/10/items/000_20200304_20200304_2245/03.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/submenu/BL47UMB4D3LV4MP1R0.jpeg" group-title="Clasics",LA TUMBA DEL VAMPIRO
 https://archive.org/download/LaTumbaDelVampiro1972Espaol/La%20Tumba%20del%20Vampiro%20-1972-%20espa%C3%B1ol.avi
@@ -2403,7 +2403,7 @@ http://archive.org/download/salvavidascr/3l53cr370d3l45m45c0745.avi
 https://archive.org/download/00naran/fgtyko/l4m.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVkMjU1NWYtNzhjMi00ZDM3LWFlNGQtODA0YmExNWRhZDY2XkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_FMjpg_UX1000_.jpg" group-title="Clasics",Lancheros Picudos
 http://archive.org/download/streamg1994/J4M/3%20l4nch3r0s%20p1cud05.mkv
-#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/las-apariencias-enganan.jpg "group-title="Comedia",LAS APARIENCIAS ENGA—AN
+#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/las-apariencias-enganan.jpg "group-title="Comedia",LAS APARIENCIAS ENGA√ëAN
 http://ia801401.us.archive.org/2/items/tosey_freehotmail_10/10.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LAS AVENTURAS DEL DOCTOR DOLITTLE 2020
 http://ia801507.us.archive.org/7/items/000_20200301_202003/02.mp4
@@ -2411,7 +2411,7 @@ http://ia801507.us.archive.org/7/items/000_20200301_202003/02.mp4
 https://archive.org/download/d52cb16dfff081ab2535cdf06cf453bf-720p/d52cb16dfff081ab2535cdf06cf453bf-720p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ5MTY1NTgtZGNiNy00MTk4LWI3MGItYjZiN2Y5NmI2MzY0XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",LAS CENIZAS DE ANGELA
 http://archive.org/download/erling44_198f_ymail3_Cubo/4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Infantiles",Las crÛnicas de Narnia: El leÛn, la bruja y el ropero (2005)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Infantiles",Las cr√≥nicas de Narnia: El le√≥n, la bruja y el ropero (2005)
 https://archive.org/download/l4s-cr0n1c45-de-n4rn14/L4S%20CR0N1C45%20DE%20N4RN14-2005.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzMDcyMzM2Ml5BMl5BanBnXkFtZTYwNzg1Nzc4._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",LAS CRONICAS DE SPIDERWICK
 http://archive.org/download/grid-plus-1595018593259/M4R10B3LLY.mp4
@@ -2479,9 +2479,9 @@ http://archive.org/download/ag04l13bowalp1e12rijl1pewix920/AG04L13BOwaLp1E12rij.
 https://archive.org/download/00chayo/l0qu3ch1c4.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/wiistarpemier/L0551mp50n3lbu3n03lB4r7y3lL0k.jpg" group-title="Animacion",Lo Simpson el bueno el Bart y el Lok
 http://archive.org/download/wiistarpemier/L0551mp50n3lbu3n03lB4r7y3lL0k2.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNiMWVhNjAtMzgyYS00NzRhLWJmNGUtNzdiOGFhMmY5NDUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",Loca academia de policÌa (1984)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNiMWVhNjAtMzgyYS00NzRhLWJmNGUtNzdiOGFhMmY5NDUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",Loca academia de polic√≠a (1984)
 https://archive.org/download/l0c4-4c4dem14-de-p0l1c14/L0C4%204C4D3M14%20DE%20P0L1C14%201.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdlYmZiMDctMWNiZS00YmY5LWEzMjYtMTY4ZDg3NTg2MjUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",Loca academia de policÌa 2 (1985)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdlYmZiMDctMWNiZS00YmY5LWEzMjYtMTY4ZDg3NTg2MjUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",Loca academia de polic√≠a 2 (1985)
 https://archive.org/download/l0c4-4c4dem14-de-p0l1c14/L0C4%204C4D3M14%20DE%20P0L1C14%202.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ4NzE5ZDItMzFjYi00MTU5LTliYjAtYzRjZDI4ZjQ4NzY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",LOCA ESCUELA DEL DESORDEN
 http://ia801502.us.archive.org/14/items/dejefo_hotmailpro_000/F.mp4
@@ -2505,7 +2505,7 @@ http://archive.org/download/meda_000/LOGA.mp4
 http://archive.org/download/rzy05997_zoqqa_1/subid0_p4r4_stre4ming_a85/1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20210120-012438/IMG_20210120_012438.jpg" group-title="Mexicanas",LOS 2 RIVALES
 http://archive.org/download/assassins-creed-0872afb-1-5a-0d-46d-9-9d-3c-031a-035f-5122/105D05R1V4135.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" group-title="Marvel Studio",Los 4 Fant·sticos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ij3Nl6Jlx3CJBwXbIFaYYz1acna.jpg" group-title="Marvel Studio",Los 4 Fant√°sticos
 https://archive.org/download/err0r/4fant4st1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVjMGI4ZTAtOTJjYS00NjZkLWEzZGUtNDMxZTEyMjE5ODdjXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",LOS BANANA SPLITS
 http://archive.org/download/3mna201tbs901mnql/3mNA201TbS901mNql.mp4
@@ -2529,7 +2529,7 @@ http://archive.org/download/crweb/L05Cr00d5.avi
 https://archive.org/download/los-dioses-deben-estar-locos-1/Los%20Dioses%20Deben%20Estar%20locos%201.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RiOTc1YmYtMDk0Yy00ZWI4LTgzN2YtYTg2ZDZmOGIwNTA1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",LOS DOS PAPAS
 http://archive.org/download/2_20200303_20200303_0315/2.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/unnamed_20210126/unnamed.jpg "group-title="Terror",LOS DUE—OS
+#EXTINF:-1 tvg-logo="https://archive.org/download/unnamed_20210126/unnamed.jpg "group-title="Terror",LOS DUE√ëOS
 http://archive.org/download/oun_20200910/oun.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/submenu/1L053L1J1D05.jpeg" group-title="Terror",Los Elegidos
 https://archive.org/download/los-elegidos/Los%20Elegidos.mkv
@@ -2551,7 +2551,7 @@ https://archive.org/download/LosHombresDetrasDelSolMenBehind/Los_Hombres_Detras_
 http://archive.org/download/masasahg/masasahg.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LOS INCREIBLES 2 (opc.2)
 http://archive.org/download/next-3/l051ncr31bl352.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LOS INCREÕBLES 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LOS INCRE√çBLES 2
 http://archive.org/download/hazaro_amadamus_2/2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LOS INCREIBLES
 http://archive.org/download/2_20191116_201911/4RTUR0_4P0RT35/2.avi
@@ -2559,9 +2559,9 @@ http://archive.org/download/2_20191116_201911/4RTUR0_4P0RT35/2.avi
 http://archive.org/download/mashfd1/mashfd1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20210120-012650_202101/IMG_20210120_012650.png" group-title="Accion",LOS INTOCABLES
 http://archive.org/download/1589567773091_202005/1051N70C48135.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MjMzOTc1Ml5BMl5BanBnXkFtZTcwNDQxMDY5OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LOS JOVENES TITANES EN ACCION LA PELÕCULA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MjMzOTc1Ml5BMl5BanBnXkFtZTcwNDQxMDY5OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",LOS JOVENES TITANES EN ACCION LA PEL√çCULA
 http://archive.org/download/vid-20200520-wa-0027/teentit3%2B_%2B%2B%24%2B%24dd_1589853576630.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc0NjM3NTI3NV5BMl5BanBnXkFtZTgwODE4NjAwNzE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",los jÛvenes titanes misiÛn Tokio
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc0NjM3NTI3NV5BMl5BanBnXkFtZTgwODE4NjAwNzE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",los j√≥venes titanes misi√≥n Tokio
 http://archive.org/download/joven_202009/joven.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Juegos-del-hambre-enllamas.jpg" group-title="Ciencia Ficcion",Los Juegos del Hambre : En llamas
 http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/2.mkv
@@ -2665,7 +2665,7 @@ http://archive.org/download/durodproesa/wiimc/1.mp4
 http://archive.org/download/durodproesa/wiimc/2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VlNjNhZWQtMTY2OC00Y2E1LWJkNGUtMDU4M2ViNzliMGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Mad Max 2: El Guerrero de la Carretera (1981)
 https://archive.org/download/m4d-m4x/M4D%20M4X%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI4YWEyNTItZTFiMS00YzY4LWE2ZjYtNGRlNmZhNjRmOWVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Mad Max: M·s all· de la c˙pula del trueno (1985)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI4YWEyNTItZTFiMS00YzY4LWE2ZjYtNGRlNmZhNjRmOWVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Mad Max: M√°s all√° de la c√∫pula del trueno (1985)
 https://archive.org/download/m4d-m4x/M4D%20M4X%203.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJiNTk0MzktMTVmZS00YTc5LWI4ZjAtNzE5NzFlZWIyYzBjXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Accion",Mad world 2018
 http://ia601506.us.archive.org/9/items/0000_20200416/03.mp4
@@ -2681,19 +2681,19 @@ https://archive.org/download/00-trorinja/M4DR3S.mp4
 http://ia601507.us.archive.org/16/items/5_20191128_201911/5.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNhODgyNTUtMzA4Zi00MTQ4LWI0NzktYzM3NzkwZmQzMTM5XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_FMjpg_UX1000_.jpg" group-title="Fantasia",MAGIA DE REVES
 http://archive.org/download/fb-img-1538675890432_202011/M4G14D3LR3V3S.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NjU3MTU5OF5BMl5BanBnXkFtZTgwMTYyMDQ3MzE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MAGIA EXTRA—A
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NjU3MTU5OF5BMl5BanBnXkFtZTgwMTYyMDQ3MzE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MAGIA EXTRA√ëA
 http://archive.org/download/1_20200419_20200419_2109/1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MALEFICA 2 MAESTRA DEL MAL
 http://archive.org/download/maleficamaestradelmal_201911/malefica%20maestra%20del%20mal.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/m-2_20210819_202108/M2.jpg" group-title="Infantiles",MalÈfica la reina del mal
+#EXTINF:-1 tvg-logo="https://archive.org/download/m-2_20210819_202108/M2.jpg" group-title="Infantiles",Mal√©fica la reina del mal
 https://archive.org/download/m-2_20210819/M2.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/m-1_20210819_202108/M1.jpg" group-title="Infantiles",MalÈfica
+#EXTINF:-1 tvg-logo="https://archive.org/download/m-1_20210819_202108/M1.jpg" group-title="Infantiles",Mal√©fica
 https://archive.org/download/m-1_20210819/M1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/9eo0feDgFvAV4rDrQw6TyNAjSes.jpg" group-title="Terror",Maligno (2021)
 https://archive.org/download/00-coco/M4L1GN0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM5MjIwNDAwMl5BMl5BanBnXkFtZTcwNzQyOTY0OA@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",MAMA 2013
 http://archive.org/download/t0y2t0r7/M1M1.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBlZjgwMDYtYmVmNS00MmUzLTkzODQtMGM1YzI2NWNjYmIyXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MAM¡ SOY UN PEZ
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBlZjgwMDYtYmVmNS00MmUzLTkzODQtMGM1YzI2NWNjYmIyXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MAM√Å SOY UN PEZ
 http://archive.org/download/pasantiayofrin/M4m450yunp32.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/submenu/1M4M4.jpeg" group-title="Terror",MAMA
 https://archive.org/download/mama.-2013.latino-e-ingles-subt.c/Mama.2013.latino-e-ingles-subt.c.mkv
@@ -2704,13 +2704,13 @@ http://archive.org/download/peliculas-cristianas/Manos%20Milagrosas.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Maquinas mortales
 http://ia601507.us.archive.org/11/items/000_20191203/3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5MTkxMDA4M15BMl5BanBnXkFtZTcwNjA4Mjg0MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg group-title="Cristianas",MARAVILLOSA GRACIA
-#EXTINF:-1 tvg-logo="https://home.pelisplus.lat/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg&w=256&q=75" group-title="Infantiles",Super Mario Bros La pelÌcula ( 2023 )
+#EXTINF:-1 tvg-logo="https://home.pelisplus.lat/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg&w=256&q=75" group-title="Infantiles",Super Mario Bros La pel√≠cula ( 2023 )
 https://archive.org/download/logo-2_20230628/myp.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/marley_me-606232966-large.jpg "group-title="Comedia",MARLEY Y YO
 http://archive.org/download/marleyyyo2008/marleyyyo2008.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/Mars_Attacks-592288791-mmed.jpg "group-title="Comedia",MARS ATTACKS
 http://archive.org/download/3_20200608_20200608_1702/4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA0MTQ2Mzc3N15BMl5BanBnXkFtZTcwNzA4ODAwNA@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MARTE NECESITA MAM¡
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA0MTQ2Mzc3N15BMl5BanBnXkFtZTcwNzA4ODAwNA@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MARTE NECESITA MAM√Å
 http://archive.org/download/img-20200422-222402/DYHM4R735N3C35174M4M4JH.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/do92C3aiADF8SHC7gkRI65z6o9S.jpg" group-title="Terror",Martyrs opc2
 https://archive.org/download/00chich/m4rty.mp4
@@ -2720,7 +2720,7 @@ http://archive.org/download/playpause-3/m4r71rs.mp4
 http://archive.org/download/20151231-204803-001-002/M454LL4D3L4LUN4.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0ZjVhM2ItMmFkOS00ZmFiLTg4NGQtODJjNTZmMDYxMWMyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",MAS ALLA DE LA LUNA
 http://archive.org/download/logo-infonavit-1/m4s4ll4d3l4lun4.mp4
-#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/03/wGYAfIqMiTtNUMrtOPgWLxYKTrE-200x300.jpg" group-title="Comedia",M·s barato por docena (2022)
+#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/03/wGYAfIqMiTtNUMrtOPgWLxYKTrE-200x300.jpg" group-title="Comedia",M√°s barato por docena (2022)
 https://archive.org/download/ck-2_20210106/AZS/D0C3NN4MAS.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI5NzM2YzEtNjBkNC00Njk0LTgxZDItY2RhMWM2ODE1ODNjXkEyXkFqcGdeQXVyMDI4NjM1MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Masacre en el barrio japones
 https://archive.org/download/00sffdsg/m4s4cr3j4p.mp4
@@ -2792,7 +2792,7 @@ https://archive.org/download/flor_20210624/M3M0RI.mp4
 https://archive.org/download/00naran/RTYU/MEM0R1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",MEN IN BLACK
 https://archive.org/download/man-in-black-1/man%20in%20black%201.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlODAzZmQtYWY4MC00NzI0LTkzY2MtNzgyNDIxNDA5Zjk1XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg "group-title="Terror",MENDEZ EL DIA DEL SE—OR
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlODAzZmQtYWY4MC00NzI0LTkzY2MtNzgyNDIxNDA5Zjk1XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg "group-title="Terror",MENDEZ EL DIA DEL SE√ëOR
 http://archive.org/download/tecnicas-para-extender-una-conversacion-en-ingles-2x/M3ND3Z3LD14D3LS3%C3%910R.mkv
 #EXTINF:-1 tvg-logo="https://archive.org/download/unnamed_20210126/unnamed.jpg" group-title="Drama",MENTE FATAL
 http://archive.org/download/M4dM4x_201904/m3nt331%20f4t4111.mp4
@@ -2814,7 +2814,7 @@ http://archive.org/download/BNAMGG/BNAMGG.avi
 http://archive.org/download/m-1-f-4-m-1-l-14/M1%20F4M1L14.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/lzCjsKkhFQmCXl5JcNaCOh9Lfjn.jpg" group-title="Drama",Mi Hermano Mi Hermana
 https://archive.org/download/00-trorinja/M1H3RM4N0MIHERM4NA.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhZTk1NDItZGQ2MS00NWJhLTlmMmYtMjU1YTVkNDA3ZDBkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Mi niÒera es un vampiro
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRhZTk1NDItZGQ2MS00NWJhLTlmMmYtMjU1YTVkNDA3ZDBkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Mi ni√±era es un vampiro
 http://archive.org/download/acde288908f6856d326290398e8ea715-360p/acde288908f6856d326290398e8ea715-360p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZhNDVjYjMtYWNiOC00YTIxLTgxM2UtNWFmNmQyYjZhMzRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",Mi novio es un demonio
 https://archive.org/download/00-gran/d1ab0l.mp4
@@ -2868,7 +2868,7 @@ http://archive.org/download/m1i2m3p45omlpqorsk/M1I2m3p45omLpqORsK.mp4
 https://archive.org/download/h1erb4/h3r1d.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MDYyOTczMF5BMl5BanBnXkFtZTcwNTc2NDU2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Minutemen
 http://archive.org/download/4eb-7b-0d-7962e-8b-21edef-5c-65de-646cf-3-480p/4eb7b0d7962e8b21edef5c65de646cf3-480p.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/m-155-p-3-r-3-gr-1-n-3/M155%20P3R3GR1N3.jpg" group-title="Infantiles",MISS PEREGRINE Y LOS NI—OS PECULIARES
+#EXTINF:-1 tvg-logo="http://archive.org/download/m-155-p-3-r-3-gr-1-n-3/M155%20P3R3GR1N3.jpg" group-title="Infantiles",MISS PEREGRINE Y LOS NI√ëOS PECULIARES
 http://archive.org/download/m-155-p-3-r-3-gr-1-n-3-y-705-n-1n-05-p-3-cul-1-ar-35/M155%20P3R3GR1N3%20Y%20705%20N1%C3%9105%20P3CUL1AR35.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1YWM4N2UtZDZiOS00ZTA2LTlhYjgtY2ExNjQxYzhkMDhmXkEyXkFqcGdeQXVyNjUyNDEzOTk@._V1_FMjpg_UX1000_.jpg" group-title="Drama",MISS VIOLENCE
 https://archive.org/download/desct_202107/m1ssv10l.mp4
@@ -2880,7 +2880,7 @@ http://archive.org/download/7_20190824/6.mp4
 https://archive.org/download/0hyu_20210713/m0v1l3gu.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIxOWRlYjQtODQ0MS00NjZhLWJiZTUtZmRjZWI3OGNmMTA1XkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Clasics",Moby Dick (1956)
 https://archive.org/download/moby-dick-1956-dvdrip-divx-502-dual-english-spanish/Moby%20Dick%20%281956%29%20%5BDVDRip%5D%5BDivx502%5D%5BDual_English-Spanish%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU3NTFmNjYtODc3Ny00MWEzLWI3M2ItZjE3NDgwMTI0MzkzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Ciencia Ficcion",Monster Hunter: La cacerÌa comienza (2020)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU3NTFmNjYtODc3Ny00MWEzLWI3M2ItZjE3NDgwMTI0MzkzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Ciencia Ficcion",Monster Hunter: La cacer√≠a comienza (2020)
 https://archive.org/download/tt64757141/tt6475714(1).mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/gonzalez-narvaez20_202101/m0n573r1.jpeg" group-title="Infantiles",Monster INC
 http://archive.org/download/gonzalez-narvaez20_202101/M0NC.avi
@@ -3006,11 +3006,11 @@ http://archive.org/download/img20200216wa0006_202002/0NU357R4P4ND1LL40.mp4
 https://archive.org/download/descarga_202101/dfdf/p4dr3nu3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMDdlYjItMDVkYy00MjYzLThhMTYtYjIzZjZiODk1ZWRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",NUEVE REINAS
 http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/6.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3NjExNjY4N15BMl5BanBnXkFtZTcwNTczODkwNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",NUEVOS VENGADORES HEROES DEL MA—ANA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3NjExNjY4N15BMl5BanBnXkFtZTcwNTczODkwNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",NUEVOS VENGADORES HEROES DEL MA√ëANA
 http://archive.org/download/vid-20200520-wa-0026/D%28y0unhdh_1589853576632.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/numb4r23.png" group-title="Drama",NUMERO 23
 http://archive.org/download/0085_20210109/23.avi
-#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210121-094628/IMG_20210121_094628.jpg" group-title="Infantiles",N˙mero 9
+#EXTINF:-1 tvg-logo="https://archive.org/download/img-20210121-094628/IMG_20210121_094628.jpg" group-title="Infantiles",N√∫mero 9
 https://archive.org/download/9_20210121_202101/9.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1OTc5OTYyOF5BMl5BanBnXkFtZTcwMDM0NDcxMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Drama",NUNCA TE VAYAS SIN DECIR TE QUIERO (Subtitulada)
 http://archive.org/download/ntvsdtqxd0203xlaqpoeird34d102rmr/NTVSDTQXD-0203xlaqpoeird34d102%20rmr.mp4
@@ -3024,11 +3024,11 @@ https://dl.dropboxusercontent.com/s/81r8t8pijg886kl/Olvidados%20en%20Fenix.mp4
 http://archive.org/download/0_20200419/1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/submenu/34L13N5V5D3PR3D4D0R.jpeg" group-title="Ciencia Ficcion",opc 2
 https://archive.org/download/alien-vs.-depredador/Alien%20vs.%20Depredador.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/d9rKmnSVnP5CHZNuvm8hF0gmBKS.jpg" group-title="Drama",OperaciÛn Jacinto
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/d9rKmnSVnP5CHZNuvm8hF0gmBKS.jpg" group-title="Drama",Operaci√≥n Jacinto
 https://archive.org/download/00-trorinja/OP3R4C10NJAS1NTO.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmY4Njk5OGQtZGMzYS00NmRhLTgxMzMtYzE0YzE1MDg4NDM1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",OPERACION REGALO
 http://archive.org/download/fb-img-15888234314424047/AP0R731RL0P3Z.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNThkNmU1OWYtYjMwMi00MzI4LThhOGYtNDNlMjY2YTk4NmM2XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",OrÌgenes secretos (2020)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNThkNmU1OWYtYjMwMi00MzI4LThhOGYtNDNlMjY2YTk4NmM2XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Or√≠genes secretos (2020)
 http://ia601506.us.archive.org/16/items/000_20201026/00007.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/MV5BZTkyMzRjODAtZDY4NS00NGQ3LTgyNjEtYTAxNWEyM2QxMzIzXkEyXkFqcGdeQXVyMTE5OTg3NzQy._V1_UX148_CR0,0,148,216_AL_.jpg "group-title="Comedia",OS ESPETACULARES
 http://archive.org/download/fb-img-1538675890432_202011/0S3SP3CT4CUL4R3S.mkv
@@ -3062,7 +3062,7 @@ https://archive.org/download/299975a7bfe1d2f/299975a7bfe1d2f.mp4
 http://archive.org/download/meda_000/PAPASIEM.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM4NDI2YzMtYTRiYS00YTdhLTljZDctYzQyMzJiYTczOTg3XkEyXkFqcGdeQXVyMTg3NTA0MTE@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Comedia",Papita 2da Base
 https://archive.org/download/4_20210522_20210522_1551/02.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I5ZmEyNDktNzY3NC00ODRlLWE2MzYtZTA0YWNjNjE0YjA4XkEyXkFqcGdeQXVyMTI2MzY5MjU2._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="Comedia",Papita manÌ tostÛn
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I5ZmEyNDktNzY3NC00ODRlLWE2MzYtZTA0YWNjNjE0YjA4XkEyXkFqcGdeQXVyMTI2MzY5MjU2._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="Comedia",Papita man√≠ tost√≥n
 https://archive.org/download/4_20210522_20210522_1551/01.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDliMTMxOWEtODM3Yi00N2QwLTg4YTAtNTE5YzBlNTA2NjhlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_FMjpg_UX1000_.jpg" group-title="Animacion",PAPRIKA
 https://archive.org/download/0drt_20210709/p4pr1k4.mp4
@@ -3080,7 +3080,7 @@ https://archive.org/download/00-sierte/p4t3r.mp4
 https://archive.org/download/paul.latino_202104/paul.latino.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/paulie-340267994-large.jpg "group-title="Comedia",PAULI
 http://archive.org/download/img20200115192950/Sub1d0para94.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Paw Patrol la pelÌcula
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Paw Patrol la pel√≠cula
 https://archive.org/download/00azucar/p0p4tr0.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0NGUxMzUtMjRlZS00OWZlLTlkZDMtMzJhOWVmZDY2ODczXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",PELEANDO EN FAMILIA
 http://ia601406.us.archive.org/4/items/000_20200129_20200129_0445/1.mp4
@@ -3088,15 +3088,15 @@ http://ia601406.us.archive.org/4/items/000_20200129_20200129_0445/1.mp4
 https://archive.org/download/00chayo/rt/p3l1gr0.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20210129-221902/IMG_20210129_221902.jpg" group-title="Mexicanas",Pepe el toro
 https://archive.org/download/p-3-p-3-3-l-t-0-r-0/P3P3%203L%20T0R0.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRhMWVmOTQtNjUwMS00MzEwLWFkNWQtNWJlMTk3NDcyYzM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",PEQUE—OS GENIOS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmRhMWVmOTQtNjUwMS00MzEwLWFkNWQtNWJlMTk3NDcyYzM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",PEQUE√ëOS GENIOS
 https://archive.org/download/desct_202107/ZZZpekenosgeniosLAT.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE1MzdmNmMtNWQwZS00MTVkLTk3MDMtYzVkOWZlOTczMDIwXkEyXkFqcGdeQXVyNjg4NzYzMzA@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",PEQUE—OS TRAVIESOS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE1MzdmNmMtNWQwZS00MTVkLTk3MDMtYzVkOWZlOTczMDIwXkEyXkFqcGdeQXVyNjg4NzYzMzA@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",PEQUE√ëOS TRAVIESOS
 http://archive.org/download/img20200212wa0130/e59gkol41o12.mp4-h264_720p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uqgzisjRJSB6Qh1gavJgDqJNcqL.jpg" group-title="Fantasia",Percy Jackson y el ladrÛn del rayo (2010)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uqgzisjRJSB6Qh1gavJgDqJNcqL.jpg" group-title="Fantasia",Percy Jackson y el ladr√≥n del rayo (2010)
 https://archive.org/download/00-zarza/p3rr1j4cs0n.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y4j0oCo6v6G3GKCumMjy4QdFlmR.jpg" group-title="Fantasia",Percy Jackson y el mar de los monstruos (2013)
 https://archive.org/download/00-zarza/p3rr1j4cs0nm0unstr0.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" group-title="Drama",Perdidos en el ¡rtico (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" group-title="Drama",Perdidos en el √Årtico (2022)
 https://archive.org/download/ck-2_20210106/derty/p3rd1d0s.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/unnamed_20210126/unnamed.jpg "group-title="Terror",PEREGRINO 2019
 http://ia601409.us.archive.org/33/items/000_20200204_20200204/5.mp4
@@ -3154,7 +3154,7 @@ http://archive.org/download/p-1-c-43/P1C43.mp4
 http://archive.org/download/p-1-c-44/P1C44.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",PIRATAS DEL CARIBE 5
 http://archive.org/download/p-1-c-45/P1C45.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gdZV5CBBoJujueY7caMuCSuFdO1.jpg" group-title="Accion",Piratas El ˙ltimo tesoro de la corona (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gdZV5CBBoJujueY7caMuCSuFdO1.jpg" group-title="Accion",Piratas El √∫ltimo tesoro de la corona (2022)
 https://archive.org/download/ck-2_20210106/derty/p1r4t4s.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMzM4NDY5N15BMl5BanBnXkFtZTgwNzg1NTI3MzE@._V1_UY268_CR4,0,182,268_AL_.jpg "group-title="Comedia",PIXELES
 http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/3.mp4
@@ -3200,7 +3200,7 @@ http://archive.org/download/west_000/P0K.mp4
 https://archive.org/download/ck-2_20210106/3334/pola125.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w78yrdx/PS3.jpg" group-title="Infantiles",POLLITOS EN FUGA
 http://archive.org/download/img20200212wa0141/2c6ep5d7.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg" group-title="Infantiles",Pollonejo y el h·mster de la oscuridad
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg" group-title="Infantiles",Pollonejo y el h√°mster de la oscuridad
 https://archive.org/download/00naran/23/p0ll0n3j4.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/unnamed_20210126/unnamed.jpg "group-title="Terror",POOKA 2018
 http://ia601500.us.archive.org/8/items/000_20191210/03.mp4
@@ -3208,7 +3208,7 @@ http://ia601500.us.archive.org/8/items/000_20191210/03.mp4
 http://archive.org/download/siem_20200831/siem.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FhYTY5ODItOGU4OC00MTkyLTlmYTMtYjIxN2Y4MmVlMDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Romanticas",POR SIEMPRE CENICIENTA UNA HISTORIA DE AMOR
 https://archive.org/download/00chayo/ev3raft3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA1MGVlMGItNzgxMC00OWY4LWI4YjEtNTNmYWIzMGUxOGQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg" group-title="Clasics",POR UN PU—ADO DE DOLARES
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA1MGVlMGItNzgxMC00OWY4LWI4YjEtNTNmYWIzMGUxOGQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg" group-title="Clasics",POR UN PU√ëADO DE DOLARES
 https://archive.org/download/00papay-4/2p0runpun4d0.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/53R135PR0Y474N4R0/P0rc0R0550.jpg" group-title="Animacion",PorcoRorosso
 http://archive.org/download/53R135PR0Y474N4R0/P00RRC0.mp4
@@ -3240,9 +3240,9 @@ http://archive.org/download/prometheus-ciencia-ficcion_202005/P40M3730S.mp4
 https://dl.dropbox.com/s/1wps6r6f7rv0cnm/Proximity%20%282020%29%C9%A2%CE%B5%D0%B3%E0%B8%A3%CF%83%C5%8B1620.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTVjNmMwZjEtMjBhMC00NzE2LWJmNGItZmE4ZTg1ZDMyNTRiXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",PROYECTO ALF
 https://archive.org/download/00chayo/4lf.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlYzMyZTctYzBiMi00Y2E5LTk4YzgtNzU5YzE0MDZkY2EwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Proyecto GÈminis 2019
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlYzMyZTctYzBiMi00Y2E5LTk4YzgtNzU5YzE0MDZkY2EwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Proyecto G√©minis 2019
 http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/5.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/3839963/3839963.jpg" group-title="Accion",Proyecto GÈminis
+#EXTINF:-1 tvg-logo="https://archive.org/download/3839963/3839963.jpg" group-title="Accion",Proyecto G√©minis
 https://archive.org/download/b03b11d006cc3ac5278479f9a550a420-720p/b03b11d006cc3ac5278479f9a550a420-720p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion",Proyecto power 2020
 http://ia801507.us.archive.org/19/items/00000_202008/00013.mp4
@@ -3282,13 +3282,13 @@ http://archive.org/download/0_20200406_202004/9.mp4
 http://archive.org/download/0_20200406_202004/11.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxMzU0ODA4N15BMl5BanBnXkFtZTgwODc1NTA3MTE@._V1_UY268_CR3,0,182,268_AL_.jpg "group-title="Terror",PURGATORIO 2014
 http://archive.org/download/muminbhi5/muminbhi5.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/Que-culpa-tiene-el-nino-portada.jpg "group-title="Comedia",QUE CULPA TIENE EL NI—O
+#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/Que-culpa-tiene-el-nino-portada.jpg "group-title="Comedia",QUE CULPA TIENE EL NI√ëO
 http://archive.org/download/q-3-cu-1-p-t-13-n-3-3-l-n-1n/Q%E2%88%9A3%20CU1P%40%20T13N3%203L%20N1%C3%91%40.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/69c994685640898daec8ab0e508dc05d.jpg "group-title="Comedia",QUE PASO AYER 1
 http://archive.org/download/qpa1fmvl223qnwlcm12k4m/QpA1-fmvl223q%C3%B1wlcm.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",QUE PASO AYER 2
 http://archive.org/download/m23aitowhy2os34qpa2p/m23pOAitowhy2Os34QpA2Xp.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/r0g3r.jpg" group-title="Comedia",Quien EngaÒo Al Conejo Roger Rabitt
+#EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/r0g3r.jpg" group-title="Comedia",Quien Enga√±o Al Conejo Roger Rabitt
 http://archive.org/download/s-3-p-3nd-3j-34r-0n-4l-con-3jo/s3%20p3nd3j34r0n%204l%20con3jo.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTRjMTczMGItMmYxMi00ZThlLTg2ZjAtODgyZTNkN2VmMDlhXkEyXkFqcGdeQXVyNzQwNjY4NTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",QUIEN MATO A LOS MUPPET
 http://archive.org/download/9M12018/9M1-2018.mp4
@@ -3296,7 +3296,7 @@ http://archive.org/download/9M12018/9M1-2018.mp4
 http://archive.org/download/img-20200823-wa-0003/p3rd10p4nd4.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/who-am-i--quien-soy-2488-c.jpg "group-title="Comedia",QUIEN SOY YO
 http://archive.org/download/icon_20190814/1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euHXJJJVlHIlqIQ3C5baqvUymkH.jpg" group-title="Drama",QuiÈreme Igualmente
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/euHXJJJVlHIlqIQ3C5baqvUymkH.jpg" group-title="Drama",Qui√©reme Igualmente
 https://archive.org/download/h1erb4/n4v1d4d8.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/o3b8nenAzu5OJk7sbPJURwmeHSV.jpg" group-title="Comedia",Quieren Volverme Loco
 https://archive.org/download/00chich/l0c0.mp4
@@ -3382,11 +3382,11 @@ http://archive.org/download/fu-7u-r-002/FU7uR002.avi
 https://archive.org/download/00chayo/rem1n1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zY4MyxHnf7evtjOSx4S49S9NWt7.jpg" group-title="Drama",Rencor
 https://archive.org/download/00-trorinja/R3NCOR.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/retroceder-nunca-rendirse-jamas-2-1586374806.jpg" group-title="Accion",Rendirse Jam·s 2
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/retroceder-nunca-rendirse-jamas-2-1586374806.jpg" group-title="Accion",Rendirse Jam√°s 2
 https://archive.org/download/00naran/r3nd12.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/retroceder-nunca-rendirse-jamas-3-1587224405.jpg" group-title="Accion",Rendirse Jam·s 3
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/retroceder-nunca-rendirse-jamas-3-1587224405.jpg" group-title="Accion",Rendirse Jam√°s 3
 https://archive.org/download/00naran/r3nd3.mp4
-#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/retroceder-nunca-rendirse-jamas-1586374205.jpg" group-title="Accion",Rendirse Jam·s
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/retroceder-nunca-rendirse-jamas-1586374205.jpg" group-title="Accion",Rendirse Jam√°s
 https://archive.org/download/00naran/r3nd1r1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",Requiem for a Dream SUB
 http://archive.org/download/rfad_20200515/RfaDream/RFAD.mp4
@@ -3396,7 +3396,7 @@ https://archive.org/download/ck-2_20210106/AZS/RRUB11.mp4
 https://archive.org/download/6_20200518_20200518/5.MP4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",RESIDENT EVIL 1 EL HUESPED MALDITO
 http://archive.org/download/1_20190711_20190711_1432/1.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Residen-evil-el-huesped-maldito.jpg" group-title="Ciencia Ficcion",Resident Evil 1: El HuÈsped maldito
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Residen-evil-el-huesped-maldito.jpg" group-title="Ciencia Ficcion",Resident Evil 1: El Hu√©sped maldito
 https://archive.org/download/r.-e.-h.-m/R.E.H.M.MP4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Resident-evil-2-Apocalipsis.jpg" group-title="Ciencia Ficcion",Resident Evil 2 : Apocalipsis
 https://archive.org/download/6_20200518_20200518/2.MP4
@@ -3406,13 +3406,13 @@ http://ia601505.us.archive.org/6/items/00000_20200414_0236/02.mp4
 http://archive.org/download/6_20190711_201907/2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY268_CR1,0,182,268_AL_.jpg "group-title="Terror",RESIDENT EVIL 2002
 http://ia801505.us.archive.org/6/items/00000_20200414_0236/01.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Resident-evil-3-Extinsion.jpg" group-title="Ciencia Ficcion",Resident Evil 3 : ExtinciÛn
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Resident-evil-3-Extinsion.jpg" group-title="Ciencia Ficcion",Resident Evil 3 : Extinci√≥n
 https://archive.org/download/6_20200518_20200518/3.MP4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ0MWI3MmEtMzM0OC00Y2ViLWE4MDItMzNhNmY1ZTdjMWE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",RESIDENT EVIL 3 EXTINCION 2007
 http://ia801505.us.archive.org/6/items/00000_20200414_0236/03.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ0MWI3MmEtMzM0OC00Y2ViLWE4MDItMzNhNmY1ZTdjMWE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Ciencia Ficcion",RESIDENT EVIL 3 EXTINCION
 http://archive.org/download/6_20190711_201907/3.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Resident-evil-4-Resurrecion.jpg" group-title="Ciencia Ficcion",Resident Evil 4 : ResurrecciÛn
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Resident-evil-4-Resurrecion.jpg" group-title="Ciencia Ficcion",Resident Evil 4 : Resurrecci√≥n
 https://archive.org/download/6_20200518_20200518/4.MP4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlMGQ0NmUtM2U2Ny00MTk3LTg5NjAtN2M3Y2JmZjllNjJlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",RESIDENT EVIL 4 ULTRATUMBA 2010
 http://ia601404.us.archive.org/17/items/00000_20200414_0245/010.mp4
@@ -3440,7 +3440,7 @@ http://ia601404.us.archive.org/17/items/00000_20200414_0245/011.mp4
 https://archive.org/download/r-3s-1d-3nt-3v-1l-8-v-1ll-4g-3/R3s1d3nt%203v1l%208%20V1ll4g3%20.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Resident-Evil-Degeneraacion.jpg" group-title="Ciencia Ficcion",Resident Evil: Degeneracion
 https://archive.org/download/ygy_20191230/ygy.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHJM0sj/Resident-Evil-La-Maldicion.jpg" group-title="Ciencia Ficcion",Resident Evil: La maldiciÛn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHJM0sj/Resident-Evil-La-Maldicion.jpg" group-title="Ciencia Ficcion",Resident Evil: La maldici√≥n
 https://dl.dropbox.com/s/qamtxim7wnrdn8v/ResidentEvilDamnation56584653453536856.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1dvc8fs/Resident-Evil-Vendetta.jpg" group-title="Ciencia Ficcion",Resident Evil: La Vendetta
 https://dl.dropbox.com/s/thvijufuebq9cav/Resident%20Evil_%20Vendetta.mp4
@@ -3450,7 +3450,7 @@ http://archive.org/download/resident.-evil.-1.-dvdrip.-xvi-d.-latino.-sbt/Reside
 https://archive.org/download/00pa_20210706/r3t1r3s1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyODMxNjM4OF5BMl5BanBnXkFtZTcwMTg5OTg3NQ@@._V1_UY268_CR0,0,182,268_AL_.jpg group-title="Cristianas",RETO DE VALIENTES
 http://archive.org/download/freeda_2/subid0_par4_stre4ming_a85/4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZiMDQ1YTQtMGVlOC00OTJiLWFkYzMtYjdiYmY0NWM5YzVjXkEyXkFqcGdeQXVyOTg4MDk3MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",rey LeÛn 3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZiMDQ1YTQtMGVlOC00OTJiLWFkYzMtYjdiYmY0NWM5YzVjXkEyXkFqcGdeQXVyOTg4MDk3MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",rey Le√≥n 3
 https://archive.org/download/leo_20200826/leo.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/bP7koMovcsVyDoAyRecmnipTCdx.jpg" group-title="Drama",Rey Richard Una Familia Ganadora
 https://archive.org/download/cacahu/f4m1l1ag4n4d0r4.mp4
@@ -3474,7 +3474,7 @@ https://archive.org/download/00-zarza/R0B02.mp4
 http://archive.org/download/img20200311185853/r0b075dvdr1pl471n0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/i7eyngqjdvKB7NvrWtCjjTNNq8N.jpg" group-title="Accion",RocknRolla (2008)
 https://archive.org/download/disco-duro_202112/r0ckr00ll4.mp4
-#EXTINF:-1 tvg-logo="https://cuevana3.io/wp-content/uploads/2021/11/rocky-iv-rocky-vs-drago-the-ultimate-directors-cut-51762-poster-200x300.jpg" group-title="Clasics",Rocky IV: Rocky Vs. Drago ñ The Ultimate Directorís Cut
+#EXTINF:-1 tvg-logo="https://cuevana3.io/wp-content/uploads/2021/11/rocky-iv-rocky-vs-drago-the-ultimate-directors-cut-51762-poster-200x300.jpg" group-title="Clasics",Rocky IV: Rocky Vs. Drago ¬ñ The Ultimate Director¬ís Cut
 https://archive.org/download/rocky-4-the-direct-cut/rocky%204%20the%20direct%20cut.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI2NTA4NjIwNl5BMl5BanBnXkFtZTYwNDQ3MzI3._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",ROLL BOUNCE FIESTA SOBRE RUEDAS
 http://archive.org/download/tirimopuru_newairmail_1/sub1d0_p4r4_Str34ming_A85/2.mp4
@@ -3498,7 +3498,7 @@ https://archive.org/download/00-sierte/s4mur.mp4
 http://archive.org/download/1589595380068-1_202005/54N6R3X54N6R3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZmMjAxNjQtZjQzOS00NjU4LWI0NDktZjlkZTgwNjVmNzU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SANGRE POR SANGRE
 http://archive.org/download/s-4-ngr-3-p-0-rs-4-ngr-3-dr-4-m-4/S4NGR3P0RS4NGR3DR4M4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThiMjg4ZDAtNjk5ZS00ZTUxLThmM2ItMGI0ZTE1NjRhNWNmXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SANS”N
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThiMjg4ZDAtNjk5ZS00ZTUxLThmM2ItMGI0ZTE1NjRhNWNmXkEyXkFqcGdeQXVyNTQ3MjE4NTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SANS√ìN
 http://archive.org/download/sam-0207/4564.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDllYzM0YjktYWNjOC00MjZjLWE2Y2EtOGRkMTY1N2I3MjUxXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Clasics",Santa Claus Conquista a los Marcianos -1964
 https://archive.org/download/SantaClausConquistaALosMarcianos1964Espanol/Santa%20Claus%20Conquista%20a%20los%20Marcianos%20-1964-%20espa%C3%B1ol.avi
@@ -3514,11 +3514,11 @@ https://archive.org/download/sanca69/sanca69.mp4
 https://archive.org/download/santocontracerebrodelmal1958/Santo%20contra%20Cerebro%20Del%20Mal%20%281958%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAwODY3MzEtOWQyOS00NTQ0LTg4ZDgtY2I1MWY4Nzk0YWFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR7,0,182,268_AL_.jpg" group-title="Clasics",Santo contra los cazadores de cabezas (1971)
 https://archive.org/download/sancaz71/sancaz71.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE3OGJjOGUtM2NiNC00Y2FkLWExY2UtMjU1ZmFhMTlhYTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="Clasics",Santo El hacha diabÛlica (1965)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE3OGJjOGUtM2NiNC00Y2FkLWExY2UtMjU1ZmFhMTlhYTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="Clasics",Santo El hacha diab√≥lica (1965)
 https://archive.org/download/elhachadiabolica1964/El%20hacha%20diabolica%20%281964%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRhY2E0MzMtNzdhZi00ZGRkLTgzNTQtZTBhMzUxMjE3OTI0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Clasics",Santo En El Tesoro De Moctezuma
 https://archive.org/download/santoeneltesorodemoctezuma1968/Santo%20en%20El%20Tesoro%20de%20Moctezuma%20%281968%29.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM3ZjcyYzYtNmIwZS00YjBkLTgyYmQtYjg2MWU3NWU2Njg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR7,0,182,268_AL_.jpg" group-title="Clasics",Santo en: MisiÛn suicida (1973)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM3ZjcyYzYtNmIwZS00YjBkLTgyYmQtYjg2MWU3NWU2Njg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR7,0,182,268_AL_.jpg" group-title="Clasics",Santo en: Misi√≥n suicida (1973)
 https://archive.org/download/sancaz71/sanmis71.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRhNzcxZjctMjNlMy00MjE2LWIwYzktMTYxM2Q3ZjFkNWQxXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_UY268_CR7,0,182,268_AL_.jpg" group-title="Clasics",Santo vs la invasion de Los marcianos
 https://archive.org/download/SantoContraLaInvasionDeLosMarcianossubtitulosEnIngles/Santo%20contra%20la%20invasio%CC%81n%20de%20los%20Marcianos%20%28subti%CC%81tulos%20en%20i%CC%81ngle%CC%81s%29.mp4
@@ -3598,7 +3598,7 @@ http://archive.org/download/533-n-0-3-v-1-l-2/533-N-0-3-V-1-L%202.avi
 https://archive.org/download/00-sierte/s3cur.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0Y2RlNmQtZDY0Ni00Njk5LWFiZWUtMzc5N2VlZTBhOGE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SELENA
 http://archive.org/download/selenalatinohdloquendoloco/Selena%20Latino%20HD%20LoquendoLoco.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Se-ales.jpg" group-title="Ciencia Ficcion",SeÒales
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Se-ales.jpg" group-title="Ciencia Ficcion",Se√±ales
 https://archive.org/download/dibujo_202004/dibujo/dibujo.mkv
 #EXTINF:-1 tvg-logo="http://archive.org/download/img-20210108-094105/IMG_20210108_094105.jpg" group-title="Terror",ser no evil - ojos del mal
 http://archive.org/download/533-n-0-3-v-1-l/533%20N0%203V1L.mp4
@@ -3634,7 +3634,7 @@ http://archive.org/download/movianpsn/5HR3K1.avi
 http://archive.org/download/img-20200519-wa-0038/514l60m3p454l05qu13r0.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4NjkxODMyMF5BMl5BanBnXkFtZTgwODYwODQ5MTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SI DECIDO QUEDARME
 http://archive.org/download/0trece/7.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/si-senor-yes-man-poster2.jpg "group-title="Comedia",SI SE—OR
+#EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/si-senor-yes-man-poster2.jpg "group-title="Comedia",SI SE√ëOR
 http://archive.org/download/15902205041883775104669310890647/12.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Drama",SIEMPRE A TU LADO HACHIKO
 http://archive.org/download/playpause-3/513mpr347ul4d0h4ch1c0.mp4
@@ -3668,7 +3668,7 @@ https://archive.org/download/ck-2_20210106/derty/s1nr3sp1r0.mp4
 https://archive.org/download/00-trorinja/si.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRiZGQ1NDMtODQ2OS00MDlhLWJkZGYtM2ZmNjlhZThjOWRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",Sing 2
 https://archive.org/download/00-trorinja/s1n2.mkv
-#EXTINF:-1 tvg-logo="http://archive.org/download/00_20201210/PhotoGrid_Plus_1607581832826.png" group-title="Infantiles",Sing: °Ven y canta
+#EXTINF:-1 tvg-logo="http://archive.org/download/00_20201210/PhotoGrid_Plus_1607581832826.png" group-title="Infantiles",Sing: ¬°Ven y canta
 http://archive.org/download/crweb/51N6V3NC4N74.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",SINIESTRO 1
 http://ia601506.us.archive.org/14/items/000_20201021/00011.mp4
@@ -3690,33 +3690,33 @@ https://archive.org/download/00naran/RTYU/SCH3R3LA.mp4
 https://archive.org/download/233706682-1781341628740132-7737354530940903393-n/snoopy%20por%20los%20viejos%20timpos.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/ec649aedfbd984d2e5a58e341cda8711/Socias_en_guerra-918122820-large.jpg "group-title="Comedia",SOCIAS EN GUERRA
 http://archive.org/download/imagen-1_20200513_1345/4.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Soldado-universal-2-El-retorno-HD-1080p.jpg" group-title="Ciencia Ficcion",Soldado Universal 2: El retorno (1998) (OpciÛn 2)
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Soldado-universal-2-El-retorno-HD-1080p.jpg" group-title="Ciencia Ficcion",Soldado Universal 2: El retorno (1998) (Opci√≥n 2)
 https://archive.org/download/00300_201912/00300.mkv
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/soldado-universal2.jpg" group-title="Ciencia Ficcion",Soldado Universal 2: El retorno (1998)
 https://ia601507.us.archive.org/23/items/uhu_20191207/uhu.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/soldado-universal-3-tres-regeneracion-van-damme.jpg" group-title="Ciencia Ficcion",Soldado Universal 3: RegeneraciÛn
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/soldado-universal-3-tres-regeneracion-van-damme.jpg" group-title="Ciencia Ficcion",Soldado Universal 3: Regeneraci√≥n
 https://ia601507.us.archive.org/23/items/uhu_20191207/ughp.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Soldado-universal-4-el-juicio-final.jpg" group-title="Ciencia Ficcion",Soldado Universal 4: El Juicio Final
 https://ia601507.us.archive.org/23/items/uhu_20191207/82b57.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/soldado-universal-universal-soldier.jpg" group-title="Ciencia Ficcion",Soldado Universal
 https://ia601507.us.archive.org/10/items/bfrbc/54ib5.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkZDhjZTEtZjA5MC00MDU2LTk3NDItNzA2YzQ4Y2Q5NjZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",SON COMO NI—OS 2 opc 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkZDhjZTEtZjA5MC00MDU2LTk3NDItNzA2YzQ4Y2Q5NjZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",SON COMO NI√ëOS 2 opc 2
 http://archive.org/download/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkZDhjZTEtZjA5MC00MDU2LTk3NDItNzA2YzQ4Y2Q5NjZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",SON COMO NI—OS 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkZDhjZTEtZjA5MC00MDU2LTk3NDItNzA2YzQ4Y2Q5NjZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",SON COMO NI√ëOS 2
 http://archive.org/download/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",SON COMO NI—OS opc 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",SON COMO NI√ëOS opc 2
 http://archive.org/download/jxjfdjksldbdksksjxslsbs/jxjfdjksldbdksksjxslsbs.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",SON COMO NI—OS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0ODYwNzU5Nl5BMl5BanBnXkFtZTcwNTI1MTgxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Comedia",SON COMO NI√ëOS
 http://archive.org/download/jxjfdjksldbdksksjxslsbs/jxjfdjksldbdksksjxslsbs.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg" group-title="Infantiles",Sonic 2 La PelÌcula
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg" group-title="Infantiles",Sonic 2 La Pel√≠cula
 https://archive.org/download/descarga_202101/dfdf/s0n1.mp4
 #EXTINF:-1 tvg-logo="https://cuevana3.la/wp-content/uploads/2022/05/sJiHVM0A3OXDVxl4Z6a7ihMPHfm-1-200x300.jpg" group-title="Infantiles",Sonic 2
 https://archive.org/download/dedede-92/sonic%202%20la%20pelicula.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",SONIC LA PELÕCULA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",SONIC LA PEL√çCULA
 http://archive.org/download/fabewey2/Sub1d0_p4r4_5tr34ming_A85_50n1c/1.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",SONIC
 http://archive.org/download/18975639.jpg-r-1280-720-f-jpg-q-x-xxyxx/Sonic%20la%20pelicula.mp4
-#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/03/dubFxWUiXW4QzOygVsChYYIuzfx-200x300.jpg" group-title="Comedia",SOS Mamis La pelÌcula (2022)
+#EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2022/03/dubFxWUiXW4QzOygVsChYYIuzfx-200x300.jpg" group-title="Comedia",SOS Mamis La pel√≠cula (2022)
 https://archive.org/download/ck-2_20210106/AZS/S0SM4M4.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/soul-2020-pelicula-bluray-audio-latino-mediafire/Soul-2020-Pelicula-Bluray-Audio-Latino-Mediafire.jpg" group-title="Infantiles",SOUL
 http://archive.org/download/000_20201228/50ul.avi
@@ -3758,7 +3758,7 @@ http://archive.org/download/screenshot20200220052416_202002/N050nc0rr3c705.mp4
 http://archive.org/download/img20200212wa0134_20200217/0000038504.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwODQ0MjI2OV5BMl5BanBnXkFtZTcwMTA4MjQ0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Terror",SPLICE EXPERIMENTO MORTAL
 http://archive.org/download/35271d487f_himail_00/SPL.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/sputnik.jpg" group-title="Ciencia Ficcion",Sputnik ExtraÒo Pasajero
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/sputnik.jpg" group-title="Ciencia Ficcion",Sputnik Extra√±o Pasajero
 https://archive.org/download/barco_202101/59utn1c.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWFmNWZmZWYtMWM3OC00YTYyLWIxNDMtOTRjNzhiYWQ0MDIwXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",SR LINK
 http://archive.org/download/img20200226wa0009/74m4r4j1m3n3z.mp4
@@ -3808,11 +3808,11 @@ http://archive.org/download/post_20210121/CL0N3%20W4R5%20VOL%20I.avi
 http://ia801505.us.archive.org/24/items/st2rg2t3_201805/stargate.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Stargate.jpg" group-title="Ciencia Ficcion",Stargate
 http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/1.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71D1vQt/Starship-Troopers-2.jpg" group-title="Ciencia Ficcion",Starship Troopers 2: HÈroe de la federaciÛn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71D1vQt/Starship-Troopers-2.jpg" group-title="Ciencia Ficcion",Starship Troopers 2: H√©roe de la federaci√≥n
 https://dl.dropboxusercontent.com/s/ahk8ssv5e0jm0zl/cbe5baaacdef1bea1a84e1cb2ccdd430-2-720p.mp4?fbclid=IwAR2R5YFsGoCti0LN0pSyiSO46aiu7uu5CF4TXPfOABf-x6csb4UosZvAczg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYZvs0Z/Starship-Troopers-3.jpg" group-title="Ciencia Ficcion",Starship Troopers 3: Merodeador
 https://dl.dropboxusercontent.com/s/xwuj7peijvyszi2/dc0d87d993d2dfc5e9e6d29b9a34af1a-3-720p.mp4?fbclid=IwAR2seX_LMVjgJhto_IzGO9HndcOV5LgOD7Ny_G9syhoFtcualHdigf4hsng
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YR94Tcy/Starship-Troopers-4.jpg" group-title="Ciencia Ficcion",Starship Troopers 4: InvasiÛn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YR94Tcy/Starship-Troopers-4.jpg" group-title="Ciencia Ficcion",Starship Troopers 4: Invasi√≥n
 https://dl.dropboxusercontent.com/s/xo394ru84r4t575/afsf3Gdr36yG57zfy6465ugfds-4-720p.avi?fbclid=IwAR3lwWKmls2xcVYQ0ry7oZbQ48zlsXwl8sL-18QxP-1cC-w5Y2jqrz7zy40
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSqfJdp/Starship-Troopers-Traidor-de-Marte-p-ster.jpg" group-title="Ciencia Ficcion",Starship Troopers 5: El traidor de Marte
 https://dl.dropboxusercontent.com/s/8yavq2b9zexlz3f/asHdh627Jshs772hak82u-5-720.mp4?fbclid=IwAR25uHzZrPqdXCGUnzWoKu3pydvAzjEhaoRpmIXi8WUi-ihVb81IMo3eP4Q
@@ -3832,21 +3832,21 @@ http://archive.org/download/5-t-3-v-3-nsub/5T3V3NSUB.avi
 http://archive.org/download/screenshot20200224145047/5u54nsv3r.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY3Y2QxMWQtZjI4ZC00M2EyLTk0NjMtZDNjNmEyMTkzMDlmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",STUART LITTLE 3
 http://archive.org/download/wunsdr25fs/wunsdr25fs.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SUE—O DE FUGA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SUE√ëO DE FUGA
 http://archive.org/download/sdf1m21lposk13o24lpo4/SdF1m21lpoSK13O24lPO4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmZDAwM2QtZmFiMS00OTJlLTgxMTItZDMyZmVhYjE1MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SULLY: HAZA—A EN EL HUDSON
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmZDAwM2QtZmFiMS00OTJlLTgxMTItZDMyZmVhYjE1MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",SULLY: HAZA√ëA EN EL HUDSON
 http://archive.org/download/566783i-8su-117637h-4z-4n-466673nn-3lhud-0njuggs/566783i8su117637h4z4%C3%B1466673nn3lhud0njuggs.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/5UP3RB474LL4.png" group-title="Animacion",SUPER BATALLA DECISIVA POR EL PLANETA TIERRA
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/3.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NjIyMjA2OF5BMl5BanBnXkFtZTcwMzIxNDE1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",SUPER COOL
 http://archive.org/download/plkbhgfhnhfssksklkzxjxks/plkbhgfhnhfssksklkzxjxks.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/submenu/2dc5up3rm4n.jpeg" group-title="DC Comics",Super Man EL HOMBRE DEL MA—ANA
+#EXTINF:-1 tvg-logo="https://archive.org/download/submenu/2dc5up3rm4n.jpeg" group-title="DC Comics",Super Man EL HOMBRE DEL MA√ëANA
 https://archive.org/download/sup3rm4n.0f.t0m0rr0w.2020.hdrip.720p.latino/sup3rm4n.0f.t0m0rr0w.2020.hdrip.720p.latino.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/pakistae/5up3.jpg" group-title="Infantiles",Super Man Hombre Del MaÒana
+#EXTINF:-1 tvg-logo="http://archive.org/download/pakistae/5up3.jpg" group-title="Infantiles",Super Man Hombre Del Ma√±ana
 http://archive.org/download/pakistae/5UP3RM4N.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_FMjpg_UX1000_.jpg" group-title="DC Comics",Super Man
 http://archive.org/download/superman-1978/SUPERMAN%201978.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmZTUyZDAtYjg0MC00NmE5LWE2OTAtM2FjNGI1NWUyMzE0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",Super Mario Bros La PELÕCULA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmZTUyZDAtYjg0MC00NmE5LWE2OTAtM2FjNGI1NWUyMzE0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",Super Mario Bros La PEL√çCULA
 http://archive.org/download/img-20200521-172454-hdr/4pru3b4d31n7r0.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/entertaiment09/5U3R541J4N.png" group-title="Animacion",SUPER SAIYAJIN SON GOKU
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/4.mkv
@@ -3888,17 +3888,17 @@ http://archive.org/download/01_20200509_20200509_1955/02.mp4
 https://archive.org/download/pacto1/t33nt1t4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/kBKKXVbVwIP81u8Bnhguux48Sdn.jpg" group-title="Terror",Tentaculos
 https://archive.org/download/esd_20210305/T3NT4CUL0S.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Terminator-2.jpg" group-title="Ciencia Ficcion",Terminator 2: DÌa del juicio
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Terminator-2.jpg" group-title="Ciencia Ficcion",Terminator 2: D√≠a del juicio
 http://archive.org/download/5_20190713_201907/2.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/shing089/73rm1.jpg" group-title="Accion",TERMINATOR 2
 http://archive.org/download/000_20201228/73rm1n470r2.mkv
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Terminator3-Rebeliondelas-Maquinas.jpg" group-title="Ciencia Ficcion",Terminator 3: La RebeliÛn de las M·quinas
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Terminator3-Rebeliondelas-Maquinas.jpg" group-title="Ciencia Ficcion",Terminator 3: La Rebeli√≥n de las M√°quinas
 http://archive.org/download/5_20190713_201907/3.avi
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Terminator-4-Salvacion.jpg" group-title="Ciencia Ficcion",Terminator 4: SalvaciÛn
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Terminator-4-Salvacion.jpg" group-title="Ciencia Ficcion",Terminator 4: Salvaci√≥n
 http://archive.org/download/5_20190713_201907/4.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_FMjpg_UX1000_.jpg" group-title="Accion",TERMINATOR Dark Fate
 https://archive.org/download/terminator.dark.fate.-2019.1080p-dual-lat-cinecalidad.is_202006/Terminator.dark.fate.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Ternimator-5-Genesis.jpg" group-title="Ciencia Ficcion",Terminator: GÈnesis
+#EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/Ternimator-5-Genesis.jpg" group-title="Ciencia Ficcion",Terminator: G√©nesis
 http://archive.org/download/5_20190713_201907/5.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/P0R74D4563N3R4L35/73RM1N470R1.jpg" group-title="Accion",TERMINATOR
 http://archive.org/download/t3rm1/t3rm1.mkv
@@ -3968,9 +3968,9 @@ http://archive.org/download/0_20200412_20200412_1604/1.mp4
 https://archive.org/download/whats-app-audio-2021-05-21-at-7.37.12-pm/l4h4b1t4.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_sand-681620654-mmed.jpg" group-title="Terror",THE SAND 2015
 https://archive.org/download/00-sierte/th3sa4.avi
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU1ZWJmMmUtM2Q5Ny00MjdhLWE0OTMtMWJkMjg1OTc2YTgxXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",The Sitter Un niÒero sin verguenza
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU1ZWJmMmUtM2Q5Ny00MjdhLWE0OTMtMWJkMjg1OTc2YTgxXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Comedia",The Sitter Un ni√±ero sin verguenza
 https://archive.org/download/c18c087a-b078-45f5-ba8a-d966acb2b669/n1n3r0.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE4NDc5MDU2NV5BMl5BanBnXkFtZTgwNDI1ODEyNTM@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",THE TIT¡N EVOLVE OR DIE
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE4NDc5MDU2NV5BMl5BanBnXkFtZTgwNDI1ODEyNTM@._V1_FMjpg_UX1000_.jpg" group-title="Ciencia Ficcion",THE TIT√ÅN EVOLVE OR DIE
 http://archive.org/download/img-20200520-wa-0066_202005/T.1.T.4.N.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/shing089/70p6un.jpg" group-title="Accion",The Transportador
 https://archive.org/download/transportista1/transportista1.mp4
@@ -4024,7 +4024,7 @@ http://archive.org/download/18092064327status5752751c537e4dd6a1fd54293b37e439_20
 http://ia601502.us.archive.org/14/items/dejefo_hotmailpro_000/G.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/vCQfR8gqpM4rAtpD1jSXE4JhZVn.jpg" group-title="Drama",Todos Hablan De Jamie (2021)
 https://archive.org/download/00-jicama/T0D0SH4BL4ND3J4IM3.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0OWRmZmQtMWJmNS00NmRmLWIwZjAtZDEzZTI4YWQyZjVlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Comedia",Todos Mis Amigos Est·n Muertos
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0OWRmZmQtMWJmNS00NmRmLWIwZjAtZDEzZTI4YWQyZjVlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Comedia",Todos Mis Amigos Est√°n Muertos
 https://archive.org/download/qu3fu3ch4o/t0d0osm1s4migo.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJkYTc5N2UtMGRlMC00M2FmLTk0ZWMtOTYxNDUwNjI2YzljXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",TOGO
 http://archive.org/download/6_20200304/8.mp4
@@ -4116,7 +4116,7 @@ https://onedrive.live.com/download?cid=D2A6B8A160F20394&resid=D2A6B8A160F20394%2
 https://archive.org/download/ck-2_20210106/BUCL3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE3ZDYwNmItOWM5ZS00Y2Q4LTlhNmYtODlhY2QxYzA1MDlhXkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",UN BUEN DIA EN EL VECINDARIO
 http://archive.org/download/2_20200303_20200303/2.mp4
-#EXTINF:-1 tvg-logo="https://www.pelisplanet.to/wp-content/uploads/2016/12/Un-Cad%C3%A1ver-Para-Sobrevivir-210x300.jpg" group-title="Comedia",Un Cad·ver Para Sobrevivir
+#EXTINF:-1 tvg-logo="https://www.pelisplanet.to/wp-content/uploads/2016/12/Un-Cad%C3%A1ver-Para-Sobrevivir-210x300.jpg" group-title="Comedia",Un Cad√°ver Para Sobrevivir
 https://archive.org/download/00naran/RTYU/C4D4V3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/zTA9Fk9GHU5eBmCB76kMFKn3MO8.jpg" group-title="Comedia",Un Castillo Por Navidad
 https://archive.org/download/cacahu/unc4st1n4v1.mp4
@@ -4128,7 +4128,7 @@ https://archive.org/download/789456_202003/789456_0103.mp4
 https://archive.org/download/789456_202003/789456_0101.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2NDU3NDE0M15BMl5BanBnXkFtZTgwMjA3OTg0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Drama",UN DON EXCEPCIONAL
 http://archive.org/download/ude-1tyfjfjvgeh/Ude1tyfjfjvgeh.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",un espÌa a escondidas
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",un esp√≠a a escondidas
 http://archive.org/download/spymp4/spymp4.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",UN GRAN DINOSAURIO DE DISNEY
 http://archive.org/download/stop_20200308/un6r4nd1n054ur10.mp4
@@ -4136,9 +4136,9 @@ http://archive.org/download/stop_20200308/un6r4nd1n054ur10.mp4
 http://archive.org/download/tphoto-00004/D1N054UR10P.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/WoG2tvwanOMlU0qsbxpf9Qd3y.jpg" group-title="Comedia",Un Hombre Lobo Entre Nosotros
 https://archive.org/download/00-trorinja/UNH0MBR3L0BO.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/solocalidad320p/UnJ3f33nP4%C3%B14l252N360c105d3F4m1l14.jpg" group-title="Infantiles",Un Jefe en PaÒales 2 Negocios de Familia
+#EXTINF:-1 tvg-logo="https://archive.org/download/solocalidad320p/UnJ3f33nP4%C3%B14l252N360c105d3F4m1l14.jpg" group-title="Infantiles",Un Jefe en Pa√±ales 2 Negocios de Familia
 https://archive.org/download/solocalidad320p/UnJ3f33nP4%C3%B14l25212.mp4
-#EXTINF:-1 tvg-logo="http://archive.org/download/00_20201210/PhotoGrid_Plus_1607581812218.png" group-title="Infantiles",Un Jefe en PaÒales
+#EXTINF:-1 tvg-logo="http://archive.org/download/00_20201210/PhotoGrid_Plus_1607581812218.png" group-title="Infantiles",Un Jefe en Pa√±ales
 http://archive.org/download/20160312-143917/UnJ3f33nP4%C3%B14l35.avi
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Terror",UN LUGAR EN SILENCIO 2
 https://archive.org/download/desct/SILENCIO.mp4
@@ -4152,9 +4152,9 @@ http://archive.org/download/7_20190824/5.mp4
 http://archive.org/download/ppfpfpffsfjdhdkskjdjdyffybxjdjxdbfjc/ppfpfpffsfjdhdkskjdjdyffybxjdjxdbfjc.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ0NTc3MDIzNF5BMl5BanBnXkFtZTgwMTk1ODc0NjE@._V1_FMjpg_UX1000_.jpg" group-title="Infantiles",UN POLLO CON MUCHOS HUEVOS
 http://archive.org/download/gh-5_20200902/Gh5.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/vt77Xjy3NI1sMOfbO8I3BpdsFbg.jpg" group-title="Comedia",Un PrÌncipe En Nueva York 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/vt77Xjy3NI1sMOfbO8I3BpdsFbg.jpg" group-title="Comedia",Un Pr√≠ncipe En Nueva York 2
 https://archive.org/download/esd_20210305/UNPR1NC13NNUV4.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGZlNjdlZmMtYTg0MC00MmZkLWIyNDktYmNlOWYzMTkzYWQ1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",UN PRÕNCIPE EN NUEVA YORK
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGZlNjdlZmMtYTg0MC00MmZkLWIyNDktYmNlOWYzMTkzYWQ1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg "group-title="Comedia",UN PR√çNCIPE EN NUEVA YORK
 http://archive.org/download/07_20191209/hoiho/06.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--kE9kQHLdsg/Tm7sGHyEcmI/AAAAAAAADCM/jKYIPr39gP8/s500/Mouse-Hunt-Dvdrip-Latino-1997-Caratula.jpg" group-title="Comedia",Un Ratoncito Duro De Cazar
 https://archive.org/download/fdr_20210624/unr4t0n.avi
@@ -4224,7 +4224,7 @@ http://archive.org/download/peliculas-cristianas/Vencedor.mp4
 https://archive.org/download/ck-2_20210106/derty/v3ng4z44g0lpe3s.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2YyYWI3NjItMWEwZS00MzhkLWJmZTMtZDAzYjRhODM0OTMzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Accion",Venganza Bajo Cero (2019)
 https://archive.org/download/3_20201017_20201017_1926/Today/4.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYQJfS6/Venganza-Implacable.jpg" group-title="Accion",Venganza Implacable OpciÛn 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYQJfS6/Venganza-Implacable.jpg" group-title="Accion",Venganza Implacable Opci√≥n 2
 https://archive.org/download/videoplayback2_20201229/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/5zGuJoKjJ4Ii2IY2KxG61ND6O4Q.jpg" group-title="Marvel Studio",Venom Carnage Liberado
 https://archive.org/download/cacahu/v3nomc4rnag3.mp4
